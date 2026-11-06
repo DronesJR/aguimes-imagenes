@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-06T17:41:54+00:00",
+ "actualizado": "2026-11-06T18:44:36+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-06T18:44:36+00:00",
+   "titulo": "Cruce de Arinaga: la 23ª Feria del Sureste, abierta hasta el domingo 8 de noviembre en la avenida de Ansite.",
+   "resumen": "Pasa por la avenida de Ansite hasta el domingo 8: 150 puestos de productores y artesanos de Agüimes, Ingenio y Santa Lucía. 40 puestos agroalimentarios, 104 de artesanía y 6 stands de ONG, repartidos a partes iguales entre los tres municipios",
+   "enlace": "https://aguimes.es/la-feria-del-sureste-arranca-con-lo-mejor-del-producto-local-en-la-avenida-de-ansite/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1855-feria-sureste-abre.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-06T18:44:36+00:00",
+   "titulo": "Ingenio: presentación de «El protocolo Figuera» el lunes 9 de noviembre, a las 19:00, en el García Lorca.",
+   "resumen": "Sala de Conferencias del Centro Cultural Federico García Lorca, lunes 9 de noviembre, 19:00 h. Novela de intriga de A. Zacarías Medina: «El protocolo Figuera: Nikola Tesla y la patente prohibida»",
+   "enlace": "https://ingenio.es/el-centro-cultural-federico-garcia-lorca-acoge-la-presentacion-de-el-protocolo-figuera-nikola-tesla-y-la-patente-prohibida/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1856-protocolo-figuera.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-06T18:44:36+00:00",
+   "titulo": "El Carrizal: del 9 al 22 de noviembre, exposición «Conocer para conservar. Flora única, futuro común».",
+   "resumen": "Exposición en el Parque del Buen Suceso (9-22 nov); charla gratuita jueves 19 a las 18:00; ruta el sábado 21 con inscripción previa. Campaña del Cabildo de Gran Canaria (Jardín Botánico Canario Viera y Clavijo) con el Ayuntamiento de Ingenio",
+   "enlace": "https://ingenio.es/llega-a-ingenio-la-campana-insular-de-divulgacion-ambiental-conocer-para-conservar-flora-unica-futuro-comun/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1857-flora-unica-ingenio.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-06T17:41:54+00:00",
    "titulo": "Prealerta por tormentas y riesgo de inundaciones en Canarias desde las 21:00 del sábado 7 (borrasca Bruna).",
