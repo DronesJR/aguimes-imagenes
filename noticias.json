@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-06T17:03:29+00:00",
+ "actualizado": "2026-11-06T17:41:54+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-06T17:41:54+00:00",
+   "titulo": "Prealerta por tormentas y riesgo de inundaciones en Canarias desde las 21:00 del sábado 7 (borrasca Bruna).",
+   "resumen": "Evita barrancos, cauces y zonas bajas, y sigue las indicaciones oficiales. Ante una emergencia, 1-1-2. Tormentas: prealerta en todas las islas desde las 21:00 del sábado 7; llegarán al resto del archipiélago a lo largo del domingo 8, con rachas de viento fuertes en algunos puntos",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-declara-la-situacion-de-prealerta-por-tormentas-en-canarias/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1745-prealerta-tormentas-inundaciones.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-06T16:47:00+00:00",
    "titulo": "Alerta por lluvias en Gran Canaria desde las 21:00 del sábado 7, con viento y oleaje (borrasca Bruna).",
