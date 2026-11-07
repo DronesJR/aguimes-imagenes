@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-06T18:44:36+00:00",
+ "actualizado": "2026-11-07T11:43:43+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-07T11:43:43+00:00",
+   "titulo": "Gran Canaria: el Cabildo activa el PEIN en alerta desde las 00:00 del sábado 7 por la borrasca Bruna.",
+   "resumen": "Evita desplazamientos innecesarios y usa carreteras principales. Ante una emergencia, 1-1-2. Cierre preventivo de infraestructuras de uso público: áreas recreativas, zonas de acampada y albergues",
+   "enlace": "https://www.eldiario.es/canariasahora/tiempo-canarias/cabildo-gran-canaria-plan-insular-emergencias-borrasca-bruna_1_13645797.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-07-1145-cabildo-pein.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-06T18:44:36+00:00",
    "titulo": "Cruce de Arinaga: la 23ª Feria del Sureste, abierta hasta el domingo 8 de noviembre en la avenida de Ansite.",
