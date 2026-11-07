@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-07T11:43:43+00:00",
+ "actualizado": "2026-11-07T12:43:04+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-07T12:43:04+00:00",
+   "titulo": "Agüimes: 800 atletas llenaron el casco histórico en la 41ª Carrera Nocturna y Milla Urbana del viernes 6.",
+   "resumen": "José Antonio Cazorla ganó los 5.000 m en 15:26; clasificaciones completas en toptime.live. 116 corredores veteranos en la carrera nocturna de 5.000 m y 684 menores de 18 años en la Milla Urbana",
+   "enlace": "https://aguimes.es/la-carrera-nocturna-y-milla-urbana-congrega-a-800-corredores-en-su-41a-edicion/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-07-1250-milla-urbana.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-07T11:43:43+00:00",
    "titulo": "Gran Canaria: el Cabildo activa el PEIN en alerta desde las 00:00 del sábado 7 por la borrasca Bruna.",
