@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-08T12:42:44+00:00",
+ "actualizado": "2026-11-08T15:42:10+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-08T15:42:10+00:00",
+   "titulo": "Gran Canaria: el Cabildo anula la suspensión de eventos y actividades prevista desde las 12:00 de hoy domingo 8.",
+   "resumen": "Se mantiene la alerta por viento en cumbres, norte y noroeste de la isla: prudencia y atención a los canales oficiales. Se anula la suspensión de actividades y eventos públicos y privados, en espacios abiertos y cerrados, y también la de la caza",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/cabildo-gran-canaria-rebaja-restricciones-paso-borrasca-20261108131832-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1555-cabildo-levanta-suspension.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-08T12:42:44+00:00",
    "titulo": "Gran Canaria: lluvias baja de alerta a prealerta y termina la prealerta por inundaciones desde las 11:30 de hoy.",
