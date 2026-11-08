@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-08T11:42:18+00:00",
+ "actualizado": "2026-11-08T12:42:44+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-08T12:42:44+00:00",
+   "titulo": "Gran Canaria: lluvias baja de alerta a prealerta y termina la prealerta por inundaciones desde las 11:30 de hoy.",
+   "resumen": "Aún puede llover fuerte en el oeste, sur y noroeste de la isla hasta las 00:00 del lunes 9: precaución en barrancos y carreteras. Lluvias: en Gran Canaria pueden alcanzarse 20 mm en una hora y 40 mm en 12 horas, sobre todo en las vertientes oeste y sur y en el noroeste",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-prealerta-por-lluvias-en-todas-las-islas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1300-lluvias-prealerta.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-08T11:42:18+00:00",
    "titulo": "Canarias: el Gobierno rebaja a prealerta los fenómenos costeros desde las 11:30 de hoy, domingo 8.",
