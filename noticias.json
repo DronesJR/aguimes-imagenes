@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-07T12:43:04+00:00",
+ "actualizado": "2026-11-08T01:42:54+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-08T01:42:54+00:00",
+   "titulo": "Gran Canaria: el Cabildo suspende todos los eventos y actividades desde las 12:00 del domingo 8.",
+   "resumen": "Afecta a actos culturales, deportivos, recreativos y festivos, con cualquier aforo. Evita desplazamientos innecesarios. Suspensión de actividades y eventos públicos y privados, al aire libre y en espacios cerrados, hasta nueva comunicación",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/cabildo-gran-canaria-suspende-actos-eventos-publicos-20261107224034-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-0142-cabildo-suspende-eventos.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-07T12:43:04+00:00",
    "titulo": "Agüimes: 800 atletas llenaron el casco histórico en la 41ª Carrera Nocturna y Milla Urbana del viernes 6.",
