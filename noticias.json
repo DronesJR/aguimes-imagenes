@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-08T06:42:30+00:00",
+ "actualizado": "2026-11-08T11:42:18+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-08T11:42:18+00:00",
+   "titulo": "Canarias: el Gobierno rebaja a prealerta los fenómenos costeros desde las 11:30 de hoy, domingo 8.",
+   "resumen": "Sigue el mar de fondo: evita muelles, espigones y zonas de rompiente, sobre todo en pleamar. Afecta a Tenerife y a los litorales abiertos al norte y al oeste de las demás islas, con olas de 3 a 4 metros",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-prealerta-por-fenomenos-costeros-en-el-archipielago/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1145-costeros-prealerta.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-08T06:42:30+00:00",
    "titulo": "Cruce de Arinaga: suspendida la clausura de la XXIII Feria del Sureste de este domingo 8 por la borrasca Bruna.",
