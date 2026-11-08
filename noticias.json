@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-08T01:42:54+00:00",
+ "actualizado": "2026-11-08T06:42:30+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-08T06:42:30+00:00",
+   "titulo": "Cruce de Arinaga: suspendida la clausura de la XXIII Feria del Sureste de este domingo 8 por la borrasca Bruna.",
+   "resumen": "No habrá puestos ni actuaciones hoy en la avenida de Ansite; el Cabildo suspende además todos los eventos desde las 12:00. La Mancomunidad del Sureste (Agüimes, Ingenio y Santa Lucía) cancela la jornada de cierre por razones de prevención y seguridad",
+   "enlace": "https://www.solactualidad.com/la-borrasca-bruna-obliga-a-suspender-la-ultima-jornada-de-la-xxiii-feria-del-sureste-en-aguimes/ver/ver_noticia/id_noticia/37282/volver/inicio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-0645-feria-suspendida.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-08T01:42:54+00:00",
    "titulo": "Gran Canaria: el Cabildo suspende todos los eventos y actividades desde las 12:00 del domingo 8.",
