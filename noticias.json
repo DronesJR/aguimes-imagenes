@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-08T15:42:10+00:00",
+ "actualizado": "2026-11-08T21:42:35+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-08T21:42:35+00:00",
+   "titulo": "Cruce de Arinaga: 75.000 visitantes en la XXIII Feria del Sureste, reducida a dos días por la borrasca Bruna.",
+   "resumen": "Cancelada la jornada del domingo 8 por la borrasca y el PEIN del Cabildo. Del 6 al 7 de noviembre, en la Avenida de Ansite, con productos locales, muestra ganadera y actuaciones de las parrandas de Agüimes, Ingenio y Santa Lucía",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/75000-personas-disfrutaron-riqueza-cultural-gastronomica-sureste-20261108164350-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-2200-feria-balance.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-08T21:42:35+00:00",
+   "titulo": "Agüimes: «Blancanieves: más allá del espejo» llenó el Teatro Auditorio en su estreno del sábado 7.",
+   "resumen": "Es el nuevo espectáculo familiar de Camino Viejo Producciones y recorrerá teatros de varias islas. Nueva versión del cuento de los Grimm escrita por Víctor Formoso, con banda sonora original de Daniel Delgado",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/blancanieves-emociona-publico-estreno-teatro-auditorio-aguimes-20261108133407-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-2200-blancanieves-estreno.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-08T15:42:10+00:00",
    "titulo": "Gran Canaria: el Cabildo anula la suspensión de eventos y actividades prevista desde las 12:00 de hoy domingo 8.",
