@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-09T13:42:29+00:00",
+ "actualizado": "2026-11-09T15:42:08+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-09T15:42:08+00:00",
+   "titulo": "Ingenio: Encendido Navideño el sábado 21 de noviembre, con fiesta familiar desde las 17:00.",
+   "resumen": "Actividades infantiles ante las Casas Consistoriales (17:00), pasacalles por Ramón y Cajal y Plaza de la Candelaria (19:00) y encendido oficial. Después actúan Cantajuego y Los Salvapantallas",
+   "enlace": "https://ingenio.es/ingenio-dara-la-bienvenida-a-la-navidad-el-21-de-noviembre-con-una-gran-fiesta-familiar/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1600-ingenio-navidad.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-09T15:42:08+00:00",
+   "titulo": "Ingenio: el viernes 13 de noviembre (20:00) se presenta el proyecto de Devota & Lomba con las caladoras.",
+   "resumen": "Presentación en el Salón de Plenos del Ayuntamiento; el sábado 14, a las 20:00, el XXVI Desfile de Moda Calada. Colaboración con la Asociación de Caladoras de la Villa de Ingenio (ACVI)",
+   "enlace": "https://ingenio.es/devota-lomba-y-las-caladoras-de-ingenio-presentan-un-proyecto-conjunto-que-une-tradicion-artesanal-y-diseno/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1600-ingenio-caladoras.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-09T15:42:08+00:00",
+   "titulo": "El Carrizal: Radio Carrizal celebró sus 30 años con una gran gala en La Jurada el sábado 7.",
+   "resumen": "Orquestas y cantantes llenaron la plaza de La Coronación; la alcaldesa, Vanesa Martín, agradeció su labor «los 365 días». Jorge Esteban Cordero, director, tuvo palabras para los oyentes de la comarca del Sureste",
+   "enlace": "https://ingenio.es/radio-carrizal-celebro-su-30-aniversario-con-una-gran-gala-musical/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1600-radio-carrizal.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-09T13:42:29+00:00",
    "titulo": "Canarias: el Gobierno finaliza las prealertas por lluvias y por tormentas desde las 13:00 de hoy, lunes 9.",
