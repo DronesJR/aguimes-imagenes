@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-09T15:42:08+00:00",
+ "actualizado": "2026-11-09T16:42:05+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-09T16:42:05+00:00",
+   "titulo": "Canarias: alerta por viento en todas las islas desde las 18:00 del martes 10 (borrasca Charles).",
+   "resumen": "En Gran Canaria el viento llegará la madrugada del miércoles 11: asegura macetas y objetos en balcones y azoteas. Rachas de 90 km/h o más, máximas de 100 km/h; más de 110 km/h en cumbres, medianías y vertientes noroeste y sureste",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-alerta-por-viento-en-todas-las-islas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1641-alerta-viento-charles.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-09T15:42:08+00:00",
    "titulo": "Ingenio: Encendido Navideño el sábado 21 de noviembre, con fiesta familiar desde las 17:00.",
