@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-08T21:42:35+00:00",
+ "actualizado": "2026-11-09T13:42:29+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-09T13:42:29+00:00",
+   "titulo": "Canarias: el Gobierno finaliza las prealertas por lluvias y por tormentas desde las 13:00 de hoy, lunes 9.",
+   "resumen": "Sigue vigente la alerta por viento (cumbres, norte y noroeste) y la prealerta por fenómenos costeros: precaución en el litoral. La DG de Emergencias da por terminadas las dos prealertas del PEFMA, con información de AEMET",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-prealerta-por-lluvias-en-el-archipielago-3/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1345-fin-prealertas.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-08T21:42:35+00:00",
    "titulo": "Cruce de Arinaga: 75.000 visitantes en la XXIII Feria del Sureste, reducida a dos días por la borrasca Bruna.",
