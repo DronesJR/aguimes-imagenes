@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-09T16:42:05+00:00",
+ "actualizado": "2026-11-09T21:42:01+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-09T21:42:01+00:00",
+   "titulo": "Santa Lucía: nuevo alumbrado LED en la avenida de Canarias, entre el Cruce de Sardina y Las Tirajanas.",
+   "resumen": "Obra terminada: 119 luminarias LED nuevas en la Zona Comercial Abierta. Inversión de 397.263 €, financiada por el Cabildo de Gran Canaria",
+   "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/09/santa-lucia-tirajana-completa-renovacion-136263090.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-2200-santalucia-led-avenida-canarias.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-09T16:42:05+00:00",
    "titulo": "Canarias: alerta por viento en todas las islas desde las 18:00 del martes 10 (borrasca Charles).",
