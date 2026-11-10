@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-09T21:42:01+00:00",
+ "actualizado": "2026-11-10T09:45:05+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-10T10:00:00+00:00",
+   "titulo": "Santa Lucía: licitadas 29 viviendas públicas en Casa Pastores y Sardina del Sur.",
+   "resumen": "El Gobierno de Canarias abre el concurso de obras: 14 meses de plazo. 21 viviendas y garajes en Casa Pastores (calle Pi y Margall, 13): 4,64 millones de euros",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/licitada-construccion-126-viviendas-guia-galdar-santa-20261110073000-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1000-santalucia-viviendas.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-10T10:00:00+00:00",
+   "titulo": "Vecindario: Santa Lucía licita 923.142 € para reabrir el edificio Punto J, cerrado tras obras paralizadas.",
+   "resumen": "Plazo de ejecución: 12 meses desde el acta de replanteo. Ascensor, aseos accesibles, nuevos estudios de Radio Tagoror y espacio para el Área de Juventud",
+   "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/09/santa-lucia-destina-900-000-136256708.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1000-punto-j-vecindario.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-09T21:42:01+00:00",
    "titulo": "Santa Lucía: nuevo alumbrado LED en la avenida de Canarias, entre el Cruce de Sardina y Las Tirajanas.",
