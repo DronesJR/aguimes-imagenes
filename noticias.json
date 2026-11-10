@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-10T15:42:09+00:00",
+ "actualizado": "2026-11-10T15:43:38+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-10T15:43:38+00:00",
+   "titulo": "Cruce de Arinaga: el Ayuntamiento compra la parcela para ampliar el consultorio médico.",
+   "resumen": "Siguiente paso: escritura y registro, y cesión al Servicio Canario de Salud. Parcela de 497 m² anexa al consultorio (hoy aparcamiento): 196.762,30 €, firmada este martes 10 de noviembre",
+   "enlace": "https://aguimes.es/el-ayuntamiento-adquiere-la-parcela-necesaria-para-la-ampliacion-del-consultorio-del-cruce-de-arinaga/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1600-parcela-consultorio-arinaga.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-10T15:43:38+00:00",
+   "titulo": "Cruce de Arinaga: encendido navideño el sábado 14 con 706.468 luces led y música en directo.",
+   "resumen": "Plaza Primero de Mayo y avenida de Ansite, desde las 17:00. 17:00 ludoparque infantil; 18:15 Zapitto Clown; 19:30 espectáculo lumínico «Fábrica de sueños para compartir»",
+   "enlace": "https://aguimes.es/mas-de-700-000-leds-iluminaran-las-calles-del-municipio-para-ambientar-el-periodo-navideno/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1600-encendido-navideno-arinaga.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-10T15:42:09+00:00",
    "titulo": "Gran Canaria: prealerta por desprendimientos desde las 18:00 de hoy y por inundaciones y lluvia desde el miércoles 11.",
