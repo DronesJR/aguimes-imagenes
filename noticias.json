@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-10T09:45:05+00:00",
+ "actualizado": "2026-11-10T14:42:31+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-10T14:42:31+00:00",
+   "titulo": "Canarias: alerta por fenómenos costeros desde las 18:00 de hoy martes 10; en Gran Canaria, también el litoral sur.",
+   "resumen": "Evita muelles, espigones, paseos marítimos expuestos y zonas de rompiente, sobre todo en pleamar. Mar gruesa y de fondo del noroeste de 3-4 m, con viento del suroeste de fuerza 7 (50-61 km/h)",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-y-declara-la-alerta-por-fenomenos-costeros-en-todas-las-islas-2/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1445-alerta-costeros.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-10T10:00:00+00:00",
    "titulo": "Santa Lucía: licitadas 29 viviendas públicas en Casa Pastores y Sardina del Sur.",
