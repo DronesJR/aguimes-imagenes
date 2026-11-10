@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-10T15:43:38+00:00",
+ "actualizado": "2026-11-10T18:42:35+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-10T18:42:35+00:00",
+   "titulo": "Ingenio: cambian de sitio dos colegios electorales en las próximas elecciones generales.",
+   "resumen": "Mira tu tarjeta censal: indica tu colegio y tu mesa. Mesas 1-3-A, 1-3-B y 1-3-C (antes Centro Deportivo Ingenio): ahora en el gimnasio del CEIP Profesor Carlos Socas Muñoz, avenida de América, 122",
+   "enlace": "https://ingenio.es/reubicacion-de-colegios-electorales-con-motivo-de-las-proximas-elecciones-generales/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1900-ingenio-colegios-electorales.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-10T18:42:35+00:00",
+   "titulo": "Ingenio: la V carrera «Oriéntate con Ingenio» reunió a 300 personas, récord de participación.",
+   "resumen": "Clasificaciones completas en la web municipal. Sábado 7 de noviembre, con salida y meta en la Plaza de La Candelaria",
+   "enlace": "https://ingenio.es/la-quinta-edicion-de-orientate-con-ingenio-bate-record-con-la-participacion-de-300-personas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1900-ingenio-orientate.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-10T15:43:38+00:00",
    "titulo": "Cruce de Arinaga: el Ayuntamiento compra la parcela para ampliar el consultorio médico.",
