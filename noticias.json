@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-10T14:42:31+00:00",
+ "actualizado": "2026-11-10T15:42:09+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-10T15:42:09+00:00",
+   "titulo": "Gran Canaria: prealerta por desprendimientos desde las 18:00 de hoy y por inundaciones y lluvia desde el miércoles 11.",
+   "resumen": "Evita barrancos, taludes y carreteras bajo laderas; no cruces cauces ni zonas inundadas. Desprendimientos (PLATECA): desde las 18:00 de hoy martes 10 en Gran Canaria y las islas occidentales",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-declara-la-prealerta-por-riesgo-de-inundaciones-en-el-archipielago/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1545-prealertas-charles.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-10T14:42:31+00:00",
    "titulo": "Canarias: alerta por fenómenos costeros desde las 18:00 de hoy martes 10; en Gran Canaria, también el litoral sur.",
