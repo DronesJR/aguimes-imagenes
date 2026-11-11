@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-10T18:42:35+00:00",
+ "actualizado": "2026-11-11T06:42:17+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-11T06:42:17+00:00",
+   "titulo": "Agüimes: II Festival de Literatura Orlando Hernández Martín, del viernes 27 al domingo 29 de noviembre.",
+   "resumen": "Talleres de poesía gratuitos (10 plazas cada uno): inscripción hasta el viernes 20 de noviembre en orlandohernandezmartin.org. Ocho autores, entre ellos Jaime Siles, Yolanda Castaño y Pedro Flores",
+   "enlace": "https://www.radiofarodelnoroeste.es/secciones/cultura/item/41559-agueimes-reune-a-grandes-voces-de-la-poesia-contemporanea-en-el-festival-de-literatura-orlando-hernandez-martin",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-0700-festival-literatura.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-10T18:42:35+00:00",
    "titulo": "Ingenio: cambian de sitio dos colegios electorales en las próximas elecciones generales.",
