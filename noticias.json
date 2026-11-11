@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-11T09:42:25+00:00",
+ "actualizado": "2026-11-11T12:42:03+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-11T12:42:03+00:00",
+   "titulo": "Arinaga: el skatepark acoge el sábado 14 la tercera parada del Circuito Canario de Skateboard.",
+   "resumen": "Skatepark del Parque Urbano de Arinaga, de 10:00 a 17:00. Categorías Sub-8, Sub-12 y Open, masculina y femenina",
+   "enlace": "https://aguimes.es/arinaga-acoge-este-sabado-la-tercera-parada-del-circuito-canario-de-skateboard-2026/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1300-aguimes-skate.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-11T12:42:03+00:00",
+   "titulo": "Agüimes se prepara para la 51ª edición del Rally Islas Canarias, del 6 al 9 de mayo de 2027.",
+   "resumen": "El alcalde y el concejal de Deportes se reunieron el martes con el promotor. Se abordaron horarios, tramos, seguridad y la colaboración económica del Ayuntamiento mediante convenio",
+   "enlace": "https://aguimes.es/aguimes-prepara-su-participacion-en-la-51a-edicion-del-rally-islas-canarias/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1300-aguimes-rally.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-11T09:42:25+00:00",
    "titulo": "Agüimes: el Cabildo mantiene el nuevo acceso a Guayadeque, pendiente de 71 expropiaciones.",
