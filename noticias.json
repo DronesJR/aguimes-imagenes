@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-11T18:42:08+00:00",
+ "actualizado": "2026-11-11T21:42:32+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-11T21:42:32+00:00",
+   "titulo": "Santa Lucía: PEMU activo y actividades suspendidas por el viento de la borrasca Charles (miércoles 11).",
+   "resumen": "Piscinas, Pabellón Municipal y Ateneo, cerrados desde las 15:00; actos al aire libre, suspendidos. Se suspenden los actos del miércoles de las fiestas del Cruce de Sardina",
+   "enlace": "https://www.santaluciagc.com/el-ayuntamiento-mantiene-activado-el-pemu-y-suspende-todas-las-actividades-desde-las-15-horas-del-miercoles-por-la-borrasca/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-2200-santalucia-pemu-viento.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-11T18:42:08+00:00",
    "titulo": "Ingenio: cierre preventivo del campo de fútbol de El Toril por un robo de cableado.",
