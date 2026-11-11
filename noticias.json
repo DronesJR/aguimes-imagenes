@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-11T15:42:01+00:00",
+ "actualizado": "2026-11-11T18:42:08+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-11T18:42:08+00:00",
+   "titulo": "Ingenio: cierre preventivo del campo de fútbol de El Toril por un robo de cableado.",
+   "resumen": "Sin entrenamientos ni partidos hasta reponer el cable de tierra y comprobar la seguridad. El robo afectó a una torre y a todo el cable de tierra de cobre que rodea el campo",
+   "enlace": "https://ingenio.es/el-robo-de-cableado-obliga-al-cierre-temporal-del-campo-de-futbol-de-el-toril-por-motivos-de-seguridad/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1900-el-toril-cierre.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-11T18:42:08+00:00",
+   "titulo": "El Carrizal: Feria Juvenil Municipal el viernes 13 de noviembre en el Parque del Buen Suceso.",
+   "resumen": "De 9:00 a 18:00 h; por la mañana, alumnado de centros; por la tarde, abierta a todos. Talleres creativos, videojuegos y taller de DJ",
+   "enlace": "https://ingenio.es/la-feria-juvenil-municipal-2026-convertira-el-parque-del-buen-suceso-en-un-espacio-de-encuentro-creatividad-y-diversion/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1900-feria-juvenil-carrizal.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-11T15:42:01+00:00",
    "titulo": "Ingenio: el Carnaval 2027 será del 4 al 14 de febrero, con el circo como alegoría y cartel de una joven local.",
