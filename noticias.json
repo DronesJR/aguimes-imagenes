@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-11T06:42:17+00:00",
+ "actualizado": "2026-11-11T09:42:25+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-11T09:42:25+00:00",
+   "titulo": "Agüimes: el Cabildo mantiene el nuevo acceso a Guayadeque, pendiente de 71 expropiaciones.",
+   "resumen": "La carretera evitará que la calle La Orilla (GC-103) sea la vía principal hacia Guayadeque. Expropiaciones más lentas de lo previsto: el Cabildo desistió de 520.161,74 € de 2026, sin paralizar el proyecto",
+   "enlace": "https://aguimes.es/el-cabildo-reafirma-su-voluntad-de-hacer-realidad-el-nuevo-acceso-a-guayadeque/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1000-guayadeque-acceso.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-11T06:42:17+00:00",
    "titulo": "Agüimes: II Festival de Literatura Orlando Hernández Martín, del viernes 27 al domingo 29 de noviembre.",
