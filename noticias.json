@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-11T12:42:03+00:00",
+ "actualizado": "2026-11-11T15:42:01+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-11T15:42:01+00:00",
+   "titulo": "Ingenio: el Carnaval 2027 será del 4 al 14 de febrero, con el circo como alegoría y cartel de una joven local.",
+   "resumen": "El cartel se presentó el martes 10 de noviembre en el Salón de Plenos. Autora: Ariadna Sánchez Romero, 21 años, elegida por sorteo entre artistas empadronadas en Ingenio",
+   "enlace": "https://ingenio.es/el-carnaval-de-ingenio-2027-ya-tiene-cartel-anunciador/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1600-ingenio-cartel-carnaval.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-11T12:42:03+00:00",
    "titulo": "Arinaga: el skatepark acoge el sábado 14 la tercera parada del Circuito Canario de Skateboard.",
