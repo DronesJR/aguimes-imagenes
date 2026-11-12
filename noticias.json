@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-12T18:42:29+00:00",
+ "actualizado": "2026-11-12T19:41:40+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-12T19:41:40+00:00",
+   "titulo": "Canarias: el Gobierno finaliza la alerta por fenómenos costeros en todas las islas a las 20:00 de hoy, jueves 12.",
+   "resumen": "Mantén la precaución: siguen vigentes las prealertas por desprendimientos (PLATECA) e inundaciones (PEINCA). La DG de Emergencias da por terminada la alerta por fenómenos costeros en todo el archipiélago",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-situacion-de-alerta-por-fenomenos-costeros-en-todas-las-islas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-2045-fin-costeros.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-12T18:42:29+00:00",
    "titulo": "Ingenio: el dibujo de una alumna del CEIP Dr. Espino decorará las bolsas navideñas del comercio local.",
@@ -328,30 +336,6 @@
    "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-declara-la-situacion-de-alerta-por-lluvias-en-el-hierro-la-palma-la-gomera-tenerife-y-gran-canaria/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1641-alerta-borrasca-bruna.png",
    "urgente": true
-  },
-  {
-   "fecha": "2026-11-05T19:30:00+00:00",
-   "titulo": "Carrizal: Gran Gala de Aniversario de Radio Carrizal el sábado 7 de noviembre, 21:00, en La Jurada.",
-   "resumen": "Música en directo en la Plaza de la Coronación, con colaboración del Ayuntamiento de Ingenio. Actúan, entre otros, Orquesta La Leyenda, Yeray Socorro, New Guiniguada Band, Los Parranderos del Sur, Los Peques y Yeray Cruz",
-   "enlace": "https://ingenio.es/radio-carrizal-celebra-su-gala-de-aniversario-con-una-noche-musical-en-la-plaza-de-la-jurada/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1930-gala-radio-carrizal.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-05T19:15:00+00:00",
-   "titulo": "Ingenio: Cristina Medina (vie 6, 20:30) y Juan Amodeo (sáb 7, 20:00) en el Centro Cultural García Lorca.",
-   "resumen": "Entradas en Tu Reserva Online (tureservaonline.es). Viernes 6 de noviembre, 20:30: «La Partenaire», con Cristina Medina (humor, magia y música en directo)",
-   "enlace": "https://ingenio.es/propuestas-culturales-para-este-fin-de-semana-en-el-centro-cultural-federico-garcia-lorca/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1915-ingenio-cultura.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-05T19:00:00+00:00",
-   "titulo": "Arinaga y Agüimes: el Ayuntamiento pide más servicio en las guaguas 22, 23 y 08 (reunión del jueves 5 de noviembre).",
-   "resumen": "Piden ampliar el horario nocturno de la línea 22 y mejorar la línea 23 Las Palmas–Arinaga. Reunión del alcalde, Óscar Hernández, y el concejal Efraín González con el gerente de la Autoridad Única del Transporte (AUTGC), Ruymán Santana",
-   "enlace": "https://aguimes.es/aguimes-traslada-a-la-autgc-la-necesidad-de-ampliar-los-servicios-de-varias-lineas-de-global/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1900-autgc-guaguas.png",
-   "urgente": false
   }
  ]
 }
