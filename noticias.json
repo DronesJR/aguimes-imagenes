@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-11T21:42:32+00:00",
+ "actualizado": "2026-11-12T08:42:06+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-12T08:42:06+00:00",
+   "titulo": "Canarias: el Gobierno finaliza las alertas por viento y por lluvia desde las 08:00 de hoy, jueves 12.",
+   "resumen": "Mantén la precaución: este aviso no menciona otros avisos que puedan seguir vigentes (costeros, desprendimientos, inundaciones). La DG de Emergencias da por terminada la alerta por viento en todo el archipiélago (borrasca Charles)",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-alerta-por-viento-en-todo-el-archipielago/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-0845-fin-alerta-viento-lluvia.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-11T21:42:32+00:00",
    "titulo": "Santa Lucía: PEMU activo y actividades suspendidas por el viento de la borrasca Charles (miércoles 11).",
@@ -327,14 +335,6 @@
    "resumen": "Lo inauguró este miércoles 4 de noviembre el alcalde, Óscar Hernández. Lo gestionan los hermanos Abraham y Jonathan Ojeda, con experiencia en la restauración y en el tejido empresarial del municipio",
    "enlace": "https://aguimes.es/oscar-hernandez-inaugura-un-nuevo-negocio-familiar-de-restauracion-en-el-cruce-de-arinaga/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1000-ya-era-hora.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-05T07:00:00+00:00",
-   "titulo": "Teatro Auditorio: Petra Martínez lleva «Hagamos un trato» a Agüimes el sábado 28 de noviembre, 19:30.",
-   "resumen": "Entradas en tureservaonline.es (Agüimes). Recomendada a partir de 12 años. Lectura dramatizada con poemas de Benedetti, Neruda, García Lorca, Amado Nervo y Joaquín Dicenta",
-   "enlace": "https://aguimes.es/events/hagamos-un-trato/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-0700-petra-martinez-hagamos-trato.png",
    "urgente": false
   }
  ]
