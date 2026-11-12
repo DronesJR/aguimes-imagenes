@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-12T19:41:40+00:00",
+ "actualizado": "2026-11-12T21:42:18+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-12T21:42:18+00:00",
+   "titulo": "El Carrizal: las XI Jornadas de la AFC Guayadeque dieron valor a la artesanía de aguja e hilo (6 y 7 nov).",
+   "resumen": "Expertos de varias islas mostraron roseta, calado y bordado palmero. Encuentro de roseta en la Casa del Obispo (vie 6) y mesa redonda del calado en el Parque del Buen Suceso (sáb 7)",
+   "enlace": "https://ingenio.es/las-jornadas-culturales-de-la-afc-guayadeque-ponen-en-valor-la-riqueza-de-la-artesania-de-aguja-e-hilo/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-2200-ingenio-guayadeque.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-12T19:41:40+00:00",
    "titulo": "Canarias: el Gobierno finaliza la alerta por fenómenos costeros en todas las islas a las 20:00 de hoy, jueves 12.",
