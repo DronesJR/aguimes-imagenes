@@ -1,6 +1,38 @@
 {
- "actualizado": "2026-11-12T08:42:06+00:00",
+ "actualizado": "2026-11-12T18:42:29+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-12T18:42:29+00:00",
+   "titulo": "Ingenio: el dibujo de una alumna del CEIP Dr. Espino decorará las bolsas navideñas del comercio local.",
+   "resumen": "Se imprimirá en bolsas de papel que irán a los comercios del municipio en la campaña de Navidad. Más de 70 dibujos de sexto de Primaria de cuatro colegios",
+   "enlace": "https://ingenio.es/el-dibujo-de-una-alumna-del-ceip-dr-espino-adornara-las-bolsas-navidenas-del-comercio-local-de-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-ingenio-bolsas-navidad.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-12T18:42:29+00:00",
+   "titulo": "Ingenio: exposición fotográfica «Gaza, la mirada no silenciada», hasta el domingo 22 de noviembre.",
+   "resumen": "Sala Manolo MHERC, Centro Cultural Federico García Lorca. Una treintena de fotografías sobre la situación en Palestina",
+   "enlace": "https://ingenio.es/gaza-la-mirada-no-silenciada-se-exhibe-en-la-sala-manolo-mherc/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-ingenio-expo-gaza.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-12T18:42:29+00:00",
+   "titulo": "Ingenio: abre YSC Correduría de Seguros en la calle León y Castillo, 5 (El Ejido).",
+   "resumen": "Horario de 8:30 a 16:30 h; seguros para particulares y empresas. Abrió oficialmente el lunes 9 de noviembre",
+   "enlace": "https://ingenio.es/ysc-correduria-de-seguros-abre-sus-puertas-en-ingenio-de-la-mano-de-la-emprendedora-yguanira-santana/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-ingenio-ysc-seguros.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-12T18:42:29+00:00",
+   "titulo": "Agüimes: el alcalde pide que los ayuntamientos opinen desde el inicio sobre las redes eléctricas.",
+   "resumen": "Lo defendió el jueves 12 en el foro «Las redes inteligentes que vienen para Canarias» (Canarias7). Óscar Hernández, alcalde de Agüimes y vicepresidente de la Fecam",
+   "enlace": "https://aguimes.es/la-fecam-reivindica-el-papel-de-los-ayuntamientos-en-la-planificacion-de-las-redes-electricas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-aguimes-fecam-redes.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-12T08:42:06+00:00",
    "titulo": "Canarias: el Gobierno finaliza las alertas por viento y por lluvia desde las 08:00 de hoy, jueves 12.",
@@ -319,22 +351,6 @@
    "resumen": "Piden ampliar el horario nocturno de la línea 22 y mejorar la línea 23 Las Palmas–Arinaga. Reunión del alcalde, Óscar Hernández, y el concejal Efraín González con el gerente de la Autoridad Única del Transporte (AUTGC), Ruymán Santana",
    "enlace": "https://aguimes.es/aguimes-traslada-a-la-autgc-la-necesidad-de-ampliar-los-servicios-de-varias-lineas-de-global/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1900-autgc-guaguas.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-05T16:00:00+00:00",
-   "titulo": "Cruce de Arinaga: la biblioteca infantil y juvenil estrena mobiliario con una inversión de 28.000 euros.",
-   "resumen": "Abre de lunes a viernes, de 16:00 a 20:30, en la Casa de la Cultura (avenida de Ansite). Para edades de 3 a 16 años. Mesas, sillas, estanterías y escritorios para ordenadores, adaptados por edades, con dos espacios: infantil y juvenil",
-   "enlace": "https://aguimes.es/la-biblioteca-infantil-y-juvenil-del-cruce-de-arinaga-renueva-por-completo-su-mobiliario/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1600-biblioteca-cruce.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-05T10:00:00+00:00",
-   "titulo": "Cruce de Arinaga estrena «Ya era hora», un negocio familiar de hamburguesas, tapas y platos caseros.",
-   "resumen": "Lo inauguró este miércoles 4 de noviembre el alcalde, Óscar Hernández. Lo gestionan los hermanos Abraham y Jonathan Ojeda, con experiencia en la restauración y en el tejido empresarial del municipio",
-   "enlace": "https://aguimes.es/oscar-hernandez-inaugura-un-nuevo-negocio-familiar-de-restauracion-en-el-cruce-de-arinaga/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-05-1000-ya-era-hora.png",
    "urgente": false
   }
  ]
