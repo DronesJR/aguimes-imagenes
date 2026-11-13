@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-13T12:42:40+00:00",
+ "actualizado": "2026-11-13T16:07:04+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-13T16:07:04+00:00",
+   "titulo": "Canarias: el Gobierno finaliza la prealerta por inundaciones (PEINCA) en Gran Canaria a las 15:00 de hoy, viernes 13.",
+   "resumen": "Sigue vigente la prealerta por desprendimientos (PLATECA): respeta las restricciones en las vías. La DG de Emergencias da por terminado el riesgo de inundaciones costeras, pluviales y fluviales por la borrasca Charles",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-situacion-de-alerta-por-riesgo-de-inundaciones-en-la-palma/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1610-fin-peinca.png",
+   "urgente": true
+  },
   {
    "fecha": "2026-11-13T12:42:40+00:00",
    "titulo": "Vecindario: hoy viernes 13, cortes de tráfico de 19:00 a 24:00 por el tramo nocturno del Historic Rallye.",

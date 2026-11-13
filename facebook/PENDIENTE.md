@@ -1,6 +1,33 @@
 # Para publicar en Facebook
 
-Actualizado: 2026-11-13 13:00 (hora de Canarias)
+Actualizado: 2026-11-13 17:10 (hora de Canarias)
+
+## URGENTE: publicar ya — Fin de la prealerta por inundaciones (PEINCA) en Canarias, 15:00 del vie 13
+
+Imágenes, en este orden:
+
+![1](https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1610-fin-peinca.png)
+https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1610-fin-peinca.png
+
+Texto de la publicación:
+
+```
+Canarias: el Gobierno finaliza la prealerta por inundaciones (PEINCA) en Gran Canaria a las 15:00 de hoy, viernes 13.
+👉 Sigue vigente la prealerta por desprendimientos (PLATECA): respeta las restricciones en las vías.
+
+• La DG de Emergencias da por terminado el riesgo de inundaciones costeras, pluviales y fluviales por la borrasca Charles
+• También finaliza la alerta por inundaciones en La Palma y la prealerta en el resto de islas
+• Ante cualquier emergencia, llama al 112
+
+Fuente: Gobierno de Canarias, DG Emergencias (13/11/2026) · Enlace en el primer comentario 👇
+#Agüimes
+```
+
+Primer comentario:
+
+```
+🔗 Más información: https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-situacion-de-alerta-por-riesgo-de-inundaciones-en-la-palma/
+```
 
 ## Publicar hoy viernes 13 a las 14:00 — Carrusel: 9 noticias del Sureste (Vecindario, Arinaga, Ingenio, Agüimes)
 
