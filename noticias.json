@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-13T16:07:04+00:00",
+ "actualizado": "2026-11-13T18:41:56+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-13T18:41:56+00:00",
+   "titulo": "El Carrizal: la Flúor Moon Diabetes llena la avenida Carlos V este sábado 14 de noviembre.",
+   "resumen": "Caminata popular abierta a todo el mundo a las 21:20 h, sin necesidad de dorsal. Dorsales agotados (1.500 plazas); recogida en el Parque de los Aromeros: vie 13, 16:00-20:00 y sáb 14, 10:00-14:00",
+   "enlace": "https://ingenio.es/la-fluor-moon-diabetes-iluminara-el-carrizal-este-sabado-con-una-edicion-muy-especial-por-el-dia-mundial-de-la-diabetes/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1900-fluor-moon.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-13T18:41:56+00:00",
+   "titulo": "Ingenio: 300 jóvenes de 11 clubes compitieron en el Campeonato Insular de kárate de base.",
+   "resumen": "Se celebró el sábado 7 de noviembre en el Pabellón Municipal Chano Melián. Modalidades de kata y kumite en benjamín, alevín, infantil y juvenil",
+   "enlace": "https://ingenio.es/el-karate-reune-a-300-jovenes-deportistas-en-el-campeonato-insular-de-categorias-base-celebrado-en-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1900-karate-ingenio.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-13T16:07:04+00:00",
    "titulo": "Canarias: el Gobierno finaliza la prealerta por inundaciones (PEINCA) en Gran Canaria a las 15:00 de hoy, viernes 13.",
@@ -344,22 +360,6 @@
    "enlace": "https://ingenio.es/llega-a-ingenio-la-campana-insular-de-divulgacion-ambiental-conocer-para-conservar-flora-unica-futuro-comun/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1857-flora-unica-ingenio.png",
    "urgente": false
-  },
-  {
-   "fecha": "2026-11-06T17:41:54+00:00",
-   "titulo": "Prealerta por tormentas y riesgo de inundaciones en Canarias desde las 21:00 del sábado 7 (borrasca Bruna).",
-   "resumen": "Evita barrancos, cauces y zonas bajas, y sigue las indicaciones oficiales. Ante una emergencia, 1-1-2. Tormentas: prealerta en todas las islas desde las 21:00 del sábado 7; llegarán al resto del archipiélago a lo largo del domingo 8, con rachas de viento fuertes en algunos puntos",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-declara-la-situacion-de-prealerta-por-tormentas-en-canarias/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1745-prealerta-tormentas-inundaciones.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-06T16:47:00+00:00",
-   "titulo": "Alerta por lluvias en Gran Canaria desde las 21:00 del sábado 7, con viento y oleaje (borrasca Bruna).",
-   "resumen": "Sigue las indicaciones oficiales y extrema la precaución en barrancos, zonas bajas y litoral. Ante una emergencia, 1-1-2. Lluvias: alerta en Gran Canaria desde las 21:00 del sábado 7; se esperan unos 25 mm/h, fuertes y persistentes, a lo largo del domingo",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-declara-la-situacion-de-alerta-por-lluvias-en-el-hierro-la-palma-la-gomera-tenerife-y-gran-canaria/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-06-1641-alerta-borrasca-bruna.png",
-   "urgente": true
   }
  ]
 }
