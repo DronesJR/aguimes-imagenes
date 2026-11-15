@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-14T12:42:09+00:00",
+ "actualizado": "2026-11-15T06:42:20+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-15T06:42:20+00:00",
+   "titulo": "Ingenio: 50 creaciones de calado y cinco diseñadores en el XXVI desfile de Moda Calada del sábado 14.",
+   "resumen": "Caladoras del municipio y diseñadores llevaron esta técnica artesanal a la moda actual. Parque Néstor Álamo; colecciones de Modesto Lomba, Franco Quintáns, Juan Carlos Armas, Oswaldo Machín y Angie Vásquez",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/calado-ingenio-conquista-pasarela-obras-arte-cinco-20261114221622-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-15-0700-moda-calada-ingenio.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-14T12:42:09+00:00",
    "titulo": "Vecindario: cerca de 500 escolares de 8 colegios conocieron los medios de emergencia en la Karpa.",
@@ -319,22 +327,6 @@
    "resumen": "No habrá puestos ni actuaciones hoy en la avenida de Ansite; el Cabildo suspende además todos los eventos desde las 12:00. La Mancomunidad del Sureste (Agüimes, Ingenio y Santa Lucía) cancela la jornada de cierre por razones de prevención y seguridad",
    "enlace": "https://www.solactualidad.com/la-borrasca-bruna-obliga-a-suspender-la-ultima-jornada-de-la-xxiii-feria-del-sureste-en-aguimes/ver/ver_noticia/id_noticia/37282/volver/inicio/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-0645-feria-suspendida.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-08T01:42:54+00:00",
-   "titulo": "Gran Canaria: el Cabildo suspende todos los eventos y actividades desde las 12:00 del domingo 8.",
-   "resumen": "Afecta a actos culturales, deportivos, recreativos y festivos, con cualquier aforo. Evita desplazamientos innecesarios. Suspensión de actividades y eventos públicos y privados, al aire libre y en espacios cerrados, hasta nueva comunicación",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/cabildo-gran-canaria-suspende-actos-eventos-publicos-20261107224034-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-0142-cabildo-suspende-eventos.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-07T12:43:04+00:00",
-   "titulo": "Agüimes: 800 atletas llenaron el casco histórico en la 41ª Carrera Nocturna y Milla Urbana del viernes 6.",
-   "resumen": "José Antonio Cazorla ganó los 5.000 m en 15:26; clasificaciones completas en toptime.live. 116 corredores veteranos en la carrera nocturna de 5.000 m y 684 menores de 18 años en la Milla Urbana",
-   "enlace": "https://aguimes.es/la-carrera-nocturna-y-milla-urbana-congrega-a-800-corredores-en-su-41a-edicion/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-07-1250-milla-urbana.png",
    "urgente": false
   }
  ]
