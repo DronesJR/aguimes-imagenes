@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-15T06:42:20+00:00",
+ "actualizado": "2026-11-15T12:41:56+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-15T12:41:56+00:00",
+   "titulo": "Agüimes ya luce la Navidad: el Cruce de Arinaga encendió más de 700.000 leds el sábado 14.",
+   "resumen": "La iluminación seguirá encendida en Arinaga, Agüimes y el resto de barrios durante las próximas semanas. Espectáculo «Fábrica de sueños para compartir» en la avenida de Ansite, con Kiko Barroso, y conciertos de Los Sabandeños y Escuela de Calor",
+   "enlace": "https://aguimes.es/aguimes-da-la-bienvenida-a-la-navidad-con-un-multitudinario-encendido-de-luces/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-15-1300-encendido-arinaga.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-15T06:42:20+00:00",
    "titulo": "Ingenio: 50 creaciones de calado y cinco diseñadores en el XXVI desfile de Moda Calada del sábado 14.",
@@ -312,22 +320,6 @@
    "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-prealerta-por-lluvias-en-todas-las-islas/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1300-lluvias-prealerta.png",
    "urgente": true
-  },
-  {
-   "fecha": "2026-11-08T11:42:18+00:00",
-   "titulo": "Canarias: el Gobierno rebaja a prealerta los fenómenos costeros desde las 11:30 de hoy, domingo 8.",
-   "resumen": "Sigue el mar de fondo: evita muelles, espigones y zonas de rompiente, sobre todo en pleamar. Afecta a Tenerife y a los litorales abiertos al norte y al oeste de las demás islas, con olas de 3 a 4 metros",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-prealerta-por-fenomenos-costeros-en-el-archipielago/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1145-costeros-prealerta.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-08T06:42:30+00:00",
-   "titulo": "Cruce de Arinaga: suspendida la clausura de la XXIII Feria del Sureste de este domingo 8 por la borrasca Bruna.",
-   "resumen": "No habrá puestos ni actuaciones hoy en la avenida de Ansite; el Cabildo suspende además todos los eventos desde las 12:00. La Mancomunidad del Sureste (Agüimes, Ingenio y Santa Lucía) cancela la jornada de cierre por razones de prevención y seguridad",
-   "enlace": "https://www.solactualidad.com/la-borrasca-bruna-obliga-a-suspender-la-ultima-jornada-de-la-xxiii-feria-del-sureste-en-aguimes/ver/ver_noticia/id_noticia/37282/volver/inicio/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-0645-feria-suspendida.png",
-   "urgente": false
   }
  ]
 }
