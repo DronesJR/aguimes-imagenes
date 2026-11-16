@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-15T12:41:56+00:00",
+ "actualizado": "2026-11-16T21:42:11+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-16T21:42:11+00:00",
+   "titulo": "Santa Lucía: el Ateneo Municipal acoge desde el lunes 16 la exposición «Esta es mi historia».",
+   "resumen": "Son 16 fotografías hechas de forma participativa para concienciar sobre la violencia de género. Basadas en testimonios reales de mujeres supervivientes; talleres del colectivo «La Observadora»",
+   "enlace": "https://www.santaluciagc.com/el-ateneo-municipal-acoge-la-exposicion-esta-es-mi-historia-testimonios-de-resistencia/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-16-2200-expo-testimonios.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-16T21:42:11+00:00",
+   "titulo": "Vecindario: Nía y Antonia San Juan actúan en la Gala Solidaria de Asdownsur el sábado 28 de noviembre.",
+   "resumen": "Teatro Víctor Jara, de 20:00 a 22:00; entradas en tureservaonline. Lema: «Juntos brillamos más»; actúan también Vecindario Dance Studio y los niños y niñas de la asociación",
+   "enlace": "https://www.santaluciagc.com/nia-y-antonia-san-juan-actuaran-en-la-gala-solidaria-de-asdownsur-el-28-de-noviembre-en-el-teatro-victor-jara/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-16-2200-gala-asdownsur.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-15T12:41:56+00:00",
    "titulo": "Agüimes ya luce la Navidad: el Cruce de Arinaga encendió más de 700.000 leds el sábado 14.",
@@ -240,86 +256,6 @@
    "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/09/santa-lucia-destina-900-000-136256708.html",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1000-punto-j-vecindario.png",
    "urgente": false
-  },
-  {
-   "fecha": "2026-11-09T21:42:01+00:00",
-   "titulo": "Santa Lucía: nuevo alumbrado LED en la avenida de Canarias, entre el Cruce de Sardina y Las Tirajanas.",
-   "resumen": "Obra terminada: 119 luminarias LED nuevas en la Zona Comercial Abierta. Inversión de 397.263 €, financiada por el Cabildo de Gran Canaria",
-   "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/09/santa-lucia-tirajana-completa-renovacion-136263090.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-2200-santalucia-led-avenida-canarias.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-09T16:42:05+00:00",
-   "titulo": "Canarias: alerta por viento en todas las islas desde las 18:00 del martes 10 (borrasca Charles).",
-   "resumen": "En Gran Canaria el viento llegará la madrugada del miércoles 11: asegura macetas y objetos en balcones y azoteas. Rachas de 90 km/h o más, máximas de 100 km/h; más de 110 km/h en cumbres, medianías y vertientes noroeste y sureste",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-alerta-por-viento-en-todas-las-islas/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1641-alerta-viento-charles.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-09T15:42:08+00:00",
-   "titulo": "Ingenio: Encendido Navideño el sábado 21 de noviembre, con fiesta familiar desde las 17:00.",
-   "resumen": "Actividades infantiles ante las Casas Consistoriales (17:00), pasacalles por Ramón y Cajal y Plaza de la Candelaria (19:00) y encendido oficial. Después actúan Cantajuego y Los Salvapantallas",
-   "enlace": "https://ingenio.es/ingenio-dara-la-bienvenida-a-la-navidad-el-21-de-noviembre-con-una-gran-fiesta-familiar/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1600-ingenio-navidad.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-09T15:42:08+00:00",
-   "titulo": "Ingenio: el viernes 13 de noviembre (20:00) se presenta el proyecto de Devota & Lomba con las caladoras.",
-   "resumen": "Presentación en el Salón de Plenos del Ayuntamiento; el sábado 14, a las 20:00, el XXVI Desfile de Moda Calada. Colaboración con la Asociación de Caladoras de la Villa de Ingenio (ACVI)",
-   "enlace": "https://ingenio.es/devota-lomba-y-las-caladoras-de-ingenio-presentan-un-proyecto-conjunto-que-une-tradicion-artesanal-y-diseno/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1600-ingenio-caladoras.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-09T15:42:08+00:00",
-   "titulo": "El Carrizal: Radio Carrizal celebró sus 30 años con una gran gala en La Jurada el sábado 7.",
-   "resumen": "Orquestas y cantantes llenaron la plaza de La Coronación; la alcaldesa, Vanesa Martín, agradeció su labor «los 365 días». Jorge Esteban Cordero, director, tuvo palabras para los oyentes de la comarca del Sureste",
-   "enlace": "https://ingenio.es/radio-carrizal-celebro-su-30-aniversario-con-una-gran-gala-musical/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1600-radio-carrizal.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-09T13:42:29+00:00",
-   "titulo": "Canarias: el Gobierno finaliza las prealertas por lluvias y por tormentas desde las 13:00 de hoy, lunes 9.",
-   "resumen": "Sigue vigente la alerta por viento (cumbres, norte y noroeste) y la prealerta por fenómenos costeros: precaución en el litoral. La DG de Emergencias da por terminadas las dos prealertas del PEFMA, con información de AEMET",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-prealerta-por-lluvias-en-el-archipielago-3/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-09-1345-fin-prealertas.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-08T21:42:35+00:00",
-   "titulo": "Cruce de Arinaga: 75.000 visitantes en la XXIII Feria del Sureste, reducida a dos días por la borrasca Bruna.",
-   "resumen": "Cancelada la jornada del domingo 8 por la borrasca y el PEIN del Cabildo. Del 6 al 7 de noviembre, en la Avenida de Ansite, con productos locales, muestra ganadera y actuaciones de las parrandas de Agüimes, Ingenio y Santa Lucía",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/75000-personas-disfrutaron-riqueza-cultural-gastronomica-sureste-20261108164350-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-2200-feria-balance.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-08T21:42:35+00:00",
-   "titulo": "Agüimes: «Blancanieves: más allá del espejo» llenó el Teatro Auditorio en su estreno del sábado 7.",
-   "resumen": "Es el nuevo espectáculo familiar de Camino Viejo Producciones y recorrerá teatros de varias islas. Nueva versión del cuento de los Grimm escrita por Víctor Formoso, con banda sonora original de Daniel Delgado",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/blancanieves-emociona-publico-estreno-teatro-auditorio-aguimes-20261108133407-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-2200-blancanieves-estreno.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-08T15:42:10+00:00",
-   "titulo": "Gran Canaria: el Cabildo anula la suspensión de eventos y actividades prevista desde las 12:00 de hoy domingo 8.",
-   "resumen": "Se mantiene la alerta por viento en cumbres, norte y noroeste de la isla: prudencia y atención a los canales oficiales. Se anula la suspensión de actividades y eventos públicos y privados, en espacios abiertos y cerrados, y también la de la caza",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/cabildo-gran-canaria-rebaja-restricciones-paso-borrasca-20261108131832-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1555-cabildo-levanta-suspension.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-08T12:42:44+00:00",
-   "titulo": "Gran Canaria: lluvias baja de alerta a prealerta y termina la prealerta por inundaciones desde las 11:30 de hoy.",
-   "resumen": "Aún puede llover fuerte en el oeste, sur y noroeste de la isla hasta las 00:00 del lunes 9: precaución en barrancos y carreteras. Lluvias: en Gran Canaria pueden alcanzarse 20 mm en una hora y 40 mm en 12 horas, sobre todo en las vertientes oeste y sur y en el noroeste",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-pasando-a-prealerta-por-lluvias-en-todas-las-islas/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-08-1300-lluvias-prealerta.png",
-   "urgente": true
   }
  ]
 }
