@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-17T15:42:51+00:00",
+ "actualizado": "2026-11-17T18:41:45+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-17T18:41:45+00:00",
+   "titulo": "Vecindario: encendido navideño en la Avenida de Canarias el viernes 20 de noviembre.",
+   "resumen": "Abre un programa de más de 50 actividades del Ayuntamiento y Ascoive, hasta la Cabalgata de Reyes. Feria de Eventos y Celebraciones en la zona peatonal: viernes 27 y sábado 28 de noviembre",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/santa-lucia-prepara-navidad-medio-centenar-actividades-20261117164800-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1900-navidad-santalucia.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-17T15:42:51+00:00",
    "titulo": "Cruce de Arinaga: fiestas de La Milagrosa del viernes 20 al domingo 29 de noviembre.",
@@ -223,22 +231,6 @@
    "resumen": "Clasificaciones completas en la web municipal. Sábado 7 de noviembre, con salida y meta en la Plaza de La Candelaria",
    "enlace": "https://ingenio.es/la-quinta-edicion-de-orientate-con-ingenio-bate-record-con-la-participacion-de-300-personas/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1900-ingenio-orientate.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-10T15:43:38+00:00",
-   "titulo": "Cruce de Arinaga: el Ayuntamiento compra la parcela para ampliar el consultorio médico.",
-   "resumen": "Siguiente paso: escritura y registro, y cesión al Servicio Canario de Salud. Parcela de 497 m² anexa al consultorio (hoy aparcamiento): 196.762,30 €, firmada este martes 10 de noviembre",
-   "enlace": "https://aguimes.es/el-ayuntamiento-adquiere-la-parcela-necesaria-para-la-ampliacion-del-consultorio-del-cruce-de-arinaga/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1600-parcela-consultorio-arinaga.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-10T15:43:38+00:00",
-   "titulo": "Cruce de Arinaga: encendido navideño el sábado 14 con 706.468 luces led y música en directo.",
-   "resumen": "Plaza Primero de Mayo y avenida de Ansite, desde las 17:00. 17:00 ludoparque infantil; 18:15 Zapitto Clown; 19:30 espectáculo lumínico «Fábrica de sueños para compartir»",
-   "enlace": "https://aguimes.es/mas-de-700-000-leds-iluminaran-las-calles-del-municipio-para-ambientar-el-periodo-navideno/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1600-encendido-navideno-arinaga.png",
    "urgente": false
   }
  ]
