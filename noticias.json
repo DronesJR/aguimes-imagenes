@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-16T21:42:11+00:00",
+ "actualizado": "2026-11-17T12:41:54+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-17T12:41:54+00:00",
+   "titulo": "Cruce de Arinaga: la jornada «Agüimes Infinita» reúne a alumnado y familias por la igualdad (mar 17).",
+   "resumen": "Tres ponencias en el Teatro Cruce de Culturas, abiertas a Bachillerato, familias y público general. Diversidad LGTBIQ+ e identidad de género desde la infancia, educación afectivo-sexual y masculinidades igualitarias",
+   "enlace": "https://aguimes.es/la-jornada-aguimes-infinita-reune-a-alumnado-familias-y-ciudadania-en-torno-a-la-igualdad/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1300-aguimes-infinita.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-16T21:42:11+00:00",
    "titulo": "Santa Lucía: el Ateneo Municipal acoge desde el lunes 16 la exposición «Esta es mi historia».",
@@ -240,22 +248,6 @@
    "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-y-declara-la-alerta-por-fenomenos-costeros-en-todas-las-islas-2/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1445-alerta-costeros.png",
    "urgente": true
-  },
-  {
-   "fecha": "2026-11-10T10:00:00+00:00",
-   "titulo": "Santa Lucía: licitadas 29 viviendas públicas en Casa Pastores y Sardina del Sur.",
-   "resumen": "El Gobierno de Canarias abre el concurso de obras: 14 meses de plazo. 21 viviendas y garajes en Casa Pastores (calle Pi y Margall, 13): 4,64 millones de euros",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/licitada-construccion-126-viviendas-guia-galdar-santa-20261110073000-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1000-santalucia-viviendas.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-10T10:00:00+00:00",
-   "titulo": "Vecindario: Santa Lucía licita 923.142 € para reabrir el edificio Punto J, cerrado tras obras paralizadas.",
-   "resumen": "Plazo de ejecución: 12 meses desde el acta de replanteo. Ascensor, aseos accesibles, nuevos estudios de Radio Tagoror y espacio para el Área de Juventud",
-   "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/09/santa-lucia-destina-900-000-136256708.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1000-punto-j-vecindario.png",
-   "urgente": false
   }
  ]
 }
