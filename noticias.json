@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-17T12:41:54+00:00",
+ "actualizado": "2026-11-17T15:42:51+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-17T15:42:51+00:00",
+   "titulo": "Cruce de Arinaga: fiestas de La Milagrosa del viernes 20 al domingo 29 de noviembre.",
+   "resumen": "Música y baile en la plaza Primero de Mayo; el día grande es el domingo 29. Vie 20, 21:00: Attenya; sáb 21: Dj Airam Vega, Pedro Afonso y Ritmo Bakano",
+   "enlace": "https://aguimes.es/el-cruce-de-arinaga-celebrara-las-fiestas-de-la-milagrosa-del-20-al-29-de-noviembre/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1600-milagrosa.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-17T12:41:54+00:00",
    "titulo": "Cruce de Arinaga: la jornada «Agüimes Infinita» reúne a alumnado y familias por la igualdad (mar 17).",
@@ -232,22 +240,6 @@
    "enlace": "https://aguimes.es/mas-de-700-000-leds-iluminaran-las-calles-del-municipio-para-ambientar-el-periodo-navideno/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1600-encendido-navideno-arinaga.png",
    "urgente": false
-  },
-  {
-   "fecha": "2026-11-10T15:42:09+00:00",
-   "titulo": "Gran Canaria: prealerta por desprendimientos desde las 18:00 de hoy y por inundaciones y lluvia desde el miércoles 11.",
-   "resumen": "Evita barrancos, taludes y carreteras bajo laderas; no cruces cauces ni zonas inundadas. Desprendimientos (PLATECA): desde las 18:00 de hoy martes 10 en Gran Canaria y las islas occidentales",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-declara-la-prealerta-por-riesgo-de-inundaciones-en-el-archipielago/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1545-prealertas-charles.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-10T14:42:31+00:00",
-   "titulo": "Canarias: alerta por fenómenos costeros desde las 18:00 de hoy martes 10; en Gran Canaria, también el litoral sur.",
-   "resumen": "Evita muelles, espigones, paseos marítimos expuestos y zonas de rompiente, sobre todo en pleamar. Mar gruesa y de fondo del noroeste de 3-4 m, con viento del suroeste de fuerza 7 (50-61 km/h)",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-actualiza-la-situacion-y-declara-la-alerta-por-fenomenos-costeros-en-todas-las-islas-2/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-10-1445-alerta-costeros.png",
-   "urgente": true
   }
  ]
 }
