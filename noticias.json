@@ -1,6 +1,38 @@
 {
- "actualizado": "2026-11-18T12:42:10+00:00",
+ "actualizado": "2026-11-18T15:42:22+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-18T15:42:22+00:00",
+   "titulo": "Agüimes: recogida solidaria de alimentos hasta el miércoles 16 de diciembre.",
+   "resumen": "Entrega de lunes a jueves, 9:00-12:00 y 16:00-18:00, en la sede de Ecoaga y Aenaga y en la Parroquia San José Obrero. Se piden alimentos no perecederos, artículos de higiene personal y productos de limpieza",
+   "enlace": "https://aguimes.es/ayuntamiento-caritas-y-el-tejido-empresarial-se-unen-para-una-recogida-solidaria-de-alimentos/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1600-caritas-recogida-alimentos.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-18T15:42:22+00:00",
+   "titulo": "Ingenio: mercado gastronómico navideño GastroIngenio, sábado 21 y domingo 22 de noviembre.",
+   "resumen": "Parque Néstor Álamo. Sábado 12:00-17:00 y 19:30-23:30; domingo 12:00-17:00. Zona de artesanía y producto local y zona gastronómica con tapas a precios populares",
+   "enlace": "https://ingenio.es/gastronomia-artesania-producto-local-y-cocina-de-primer-nivel-en-el-mercado-navideno-gastroingenio-2026/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1600-gastroingenio.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-18T15:42:22+00:00",
+   "titulo": "Ingenio: guagua gratuita a la manifestación del 25N en Las Palmas de GC, miércoles 25 de noviembre.",
+   "resumen": "Apúntate en el 928 124 520 o en igualdad@ingenio.es: las plazas son limitadas. Salida a las 17:00 y regreso sobre las 21:00",
+   "enlace": "https://ingenio.es/transporte-gratuito-para-asistir-a-la-manifestacion-del-25n-en-la-capital-grancanaria/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1600-ingenio-25n-guagua.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-18T15:42:22+00:00",
+   "titulo": "Ingenio: jornada de educación financiera para mayores, martes 24 de noviembre a las 9:30.",
+   "resumen": "Centro de Mayores de Ingenio, calle Ramón y Cajal 36; unas tres horas con pausa café. Imparte el economista Guillermo Marrero de la Nuez",
+   "enlace": "https://ingenio.es/jornada-de-educacion-financiera-dirigida-a-las-personas-mayores-de-la-villa-de-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1600-educacion-financiera-mayores.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-18T12:42:10+00:00",
    "titulo": "Cruce de Arinaga: Flamenco Jazz Fusión, sábado 21 de noviembre a las 20:00.",
@@ -183,14 +215,6 @@
    "resumen": "De 9:00 a 18:00 h; por la mañana, alumnado de centros; por la tarde, abierta a todos. Talleres creativos, videojuegos y taller de DJ",
    "enlace": "https://ingenio.es/la-feria-juvenil-municipal-2026-convertira-el-parque-del-buen-suceso-en-un-espacio-de-encuentro-creatividad-y-diversion/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1900-feria-juvenil-carrizal.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-11T15:42:01+00:00",
-   "titulo": "Ingenio: el Carnaval 2027 será del 4 al 14 de febrero, con el circo como alegoría y cartel de una joven local.",
-   "resumen": "El cartel se presentó el martes 10 de noviembre en el Salón de Plenos. Autora: Ariadna Sánchez Romero, 21 años, elegida por sorteo entre artistas empadronadas en Ingenio",
-   "enlace": "https://ingenio.es/el-carnaval-de-ingenio-2027-ya-tiene-cartel-anunciador/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-1600-ingenio-cartel-carnaval.png",
    "urgente": false
   }
  ]
