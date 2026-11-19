@@ -1,6 +1,38 @@
 {
- "actualizado": "2026-11-19T12:42:06+00:00",
+ "actualizado": "2026-11-19T15:42:50+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-19T15:42:50+00:00",
+   "titulo": "Agüimes: Lolita Flores interpreta «Poncia» este viernes 20 de noviembre, 20:00, en el Teatro Auditorio.",
+   "resumen": "Función en el Teatro Auditorio Agüimes. Obra de Luis Luque basada en la criada de «La casa de Bernarda Alba», de Lorca",
+   "enlace": "https://aguimes.es/lolita-flores-dara-vida-a-la-criada-de-bernarda-alba-este-viernes-en-el-teatro-auditorio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-aguimes-poncia-lolita-flores.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-19T15:42:50+00:00",
+   "titulo": "El Carrizal: presentado el libro «Guanches» en la Biblioteca Municipal (miércoles 18).",
+   "resumen": "• Autor: A. José Farrujia de la Rosa, arqueólogo y profesor de la Universidad de La Laguna; es su obra número 16 Autor: A. José Farrujia de la Rosa, arqueólogo y profesor de la Universidad de La Laguna; es su obra número 16",
+   "enlace": "https://ingenio.es/la-biblioteca-municipal-de-el-carrizal-acoge-la-presentacion-de-guanches-relatos-de-nuestro-mundo-ancestral/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-libro-guanches.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-19T15:42:49+00:00",
+   "titulo": "Ingenio: prohibido aparcar en el casco desde las 7:00 del sábado 21 por el Encendido Navideño.",
+   "resumen": "Presta atención a la señalización y a la Policía Local; evita el coche particular en la zona. Sin estacionamiento: calles Ramón y Cajal, Plaza de la Candelaria y alrededores, Sor María Jesús Romero (C/ Arado) y Plaza Adolfo Suárez",
+   "enlace": "https://ingenio.es/restricciones-de-estacionamiento-y-cortes-puntuales-de-trafico-en-el-casco-de-ingenio-por-el-encendido-navideno/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-trafico-encendido.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-19T15:42:49+00:00",
+   "titulo": "Ingenio refuerza la línea 85 el sábado 21 por el Encendido y Mercado Navideño.",
+   "resumen": "Planifica el viaje: el Ayuntamiento recomienda guagua, taxi o ir a pie. Playa del Burrero → Los Molinillos: 17:30, 18:00 y 19:00",
+   "enlace": "https://ingenio.es/ingenio-anima-a-planificar-los-desplazamientos-ante-la-gran-afluencia-prevista-para-el-encendido-y-mercado-navideno/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-guagua85-encendido.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-19T12:42:06+00:00",
    "titulo": "Las Rosas: nueva acera en la calle Falla, 43.000 €, prevista para finales de noviembre.",
