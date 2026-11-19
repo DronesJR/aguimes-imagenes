@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-18T18:42:13+00:00",
+ "actualizado": "2026-11-19T12:42:06+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-19T12:42:06+00:00",
+   "titulo": "Las Rosas: nueva acera en la calle Falla, 43.000 €, prevista para finales de noviembre.",
+   "resumen": "Conectará la Casa de la Cultura con la plaza y el parque infantil. Unos 52 metros de longitud, financiados íntegramente por el Ayuntamiento de Agüimes",
+   "enlace": "https://aguimes.es/la-nueva-acera-de-la-calle-de-falla-en-las-rosas-podria-estar-terminada-en-las-proximas-semanas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1240-acera-las-rosas.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-18T18:42:13+00:00",
    "titulo": "Vecindario: más de 300 inscritos en el congreso contra la violencia de género, jueves 19 de noviembre.",
@@ -191,22 +199,6 @@
    "resumen": "Lo defendió el jueves 12 en el foro «Las redes inteligentes que vienen para Canarias» (Canarias7). Óscar Hernández, alcalde de Agüimes y vicepresidente de la Fecam",
    "enlace": "https://aguimes.es/la-fecam-reivindica-el-papel-de-los-ayuntamientos-en-la-planificacion-de-las-redes-electricas/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-aguimes-fecam-redes.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-12T08:42:06+00:00",
-   "titulo": "Canarias: el Gobierno finaliza las alertas por viento y por lluvia desde las 08:00 de hoy, jueves 12.",
-   "resumen": "Mantén la precaución: este aviso no menciona otros avisos que puedan seguir vigentes (costeros, desprendimientos, inundaciones). La DG de Emergencias da por terminada la alerta por viento en todo el archipiélago (borrasca Charles)",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-alerta-por-viento-en-todo-el-archipielago/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-0845-fin-alerta-viento-lluvia.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-11T21:42:32+00:00",
-   "titulo": "Santa Lucía: PEMU activo y actividades suspendidas por el viento de la borrasca Charles (miércoles 11).",
-   "resumen": "Piscinas, Pabellón Municipal y Ateneo, cerrados desde las 15:00; actos al aire libre, suspendidos. Se suspenden los actos del miércoles de las fiestas del Cruce de Sardina",
-   "enlace": "https://www.santaluciagc.com/el-ayuntamiento-mantiene-activado-el-pemu-y-suspende-todas-las-actividades-desde-las-15-horas-del-miercoles-por-la-borrasca/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-11-2200-santalucia-pemu-viento.png",
    "urgente": false
   }
  ]
