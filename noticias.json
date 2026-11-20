@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-19T15:42:50+00:00",
+ "actualizado": "2026-11-20T06:43:03+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-20T06:43:03+00:00",
+   "titulo": "Vecindario: 18º Medio Maratón Camilo Sánchez este sábado 21, con salida de 21 y 10,5 km a las 20:00.",
+   "resumen": "Av. de Las Tirajanas, frente a las Oficinas Municipales y el Pabellón de Deportes de Vecindario. 10:00 entrega de dorsales en la Expo; 10:00-12:30 carreras infantiles (Sub 6 a Sub 16)",
+   "enlace": "https://www.laprovincia.es/deportes-canarias/2026/11/19/vecindario-acoge-sabado-18o-medio-136632195.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-0700-vecindario-medio-maraton.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-20T06:43:03+00:00",
+   "titulo": "Santa Lucía: Salustiano Toledo asume la jefatura de la Policía Local tras la jubilación de José Luis Herrera.",
+   "resumen": "• El Ayuntamiento formalizó el nombramiento por decreto fechado el 12 de noviembre El Ayuntamiento formalizó el nombramiento por decreto fechado el 12 de noviembre",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/salustiano-toledo-releva-jose-luis-herrera-frente-20261119135753-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-0700-santa-lucia-jefe-policia.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-19T15:42:50+00:00",
    "titulo": "Agüimes: Lolita Flores interpreta «Poncia» este viernes 20 de noviembre, 20:00, en el Teatro Auditorio.",
@@ -183,54 +199,6 @@
    "resumen": "Evita la zona o busca rutas alternativas esta noche. Cerradas: calles Camino de la Madera, Atenas, Maratón, Pódium y Olimpiadas",
    "enlace": "https://www.santaluciagc.com/el-gran-canaria-historic-rallye-recorre-este-fin-de-semana-las-calles-del-municipio/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1300-rallye-historic.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-12T21:42:18+00:00",
-   "titulo": "El Carrizal: las XI Jornadas de la AFC Guayadeque dieron valor a la artesanía de aguja e hilo (6 y 7 nov).",
-   "resumen": "Expertos de varias islas mostraron roseta, calado y bordado palmero. Encuentro de roseta en la Casa del Obispo (vie 6) y mesa redonda del calado en el Parque del Buen Suceso (sáb 7)",
-   "enlace": "https://ingenio.es/las-jornadas-culturales-de-la-afc-guayadeque-ponen-en-valor-la-riqueza-de-la-artesania-de-aguja-e-hilo/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-2200-ingenio-guayadeque.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-12T19:41:40+00:00",
-   "titulo": "Canarias: el Gobierno finaliza la alerta por fenómenos costeros en todas las islas a las 20:00 de hoy, jueves 12.",
-   "resumen": "Mantén la precaución: siguen vigentes las prealertas por desprendimientos (PLATECA) e inundaciones (PEINCA). La DG de Emergencias da por terminada la alerta por fenómenos costeros en todo el archipiélago",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-situacion-de-alerta-por-fenomenos-costeros-en-todas-las-islas/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-2045-fin-costeros.png",
-   "urgente": true
-  },
-  {
-   "fecha": "2026-11-12T18:42:29+00:00",
-   "titulo": "Ingenio: el dibujo de una alumna del CEIP Dr. Espino decorará las bolsas navideñas del comercio local.",
-   "resumen": "Se imprimirá en bolsas de papel que irán a los comercios del municipio en la campaña de Navidad. Más de 70 dibujos de sexto de Primaria de cuatro colegios",
-   "enlace": "https://ingenio.es/el-dibujo-de-una-alumna-del-ceip-dr-espino-adornara-las-bolsas-navidenas-del-comercio-local-de-ingenio/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-ingenio-bolsas-navidad.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-12T18:42:29+00:00",
-   "titulo": "Ingenio: exposición fotográfica «Gaza, la mirada no silenciada», hasta el domingo 22 de noviembre.",
-   "resumen": "Sala Manolo MHERC, Centro Cultural Federico García Lorca. Una treintena de fotografías sobre la situación en Palestina",
-   "enlace": "https://ingenio.es/gaza-la-mirada-no-silenciada-se-exhibe-en-la-sala-manolo-mherc/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-ingenio-expo-gaza.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-12T18:42:29+00:00",
-   "titulo": "Ingenio: abre YSC Correduría de Seguros en la calle León y Castillo, 5 (El Ejido).",
-   "resumen": "Horario de 8:30 a 16:30 h; seguros para particulares y empresas. Abrió oficialmente el lunes 9 de noviembre",
-   "enlace": "https://ingenio.es/ysc-correduria-de-seguros-abre-sus-puertas-en-ingenio-de-la-mano-de-la-emprendedora-yguanira-santana/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-ingenio-ysc-seguros.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-12T18:42:29+00:00",
-   "titulo": "Agüimes: el alcalde pide que los ayuntamientos opinen desde el inicio sobre las redes eléctricas.",
-   "resumen": "Lo defendió el jueves 12 en el foro «Las redes inteligentes que vienen para Canarias» (Canarias7). Óscar Hernández, alcalde de Agüimes y vicepresidente de la Fecam",
-   "enlace": "https://aguimes.es/la-fecam-reivindica-el-papel-de-los-ayuntamientos-en-la-planificacion-de-las-redes-electricas/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-12-1900-aguimes-fecam-redes.png",
    "urgente": false
   }
  ]
