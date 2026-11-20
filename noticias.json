@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-20T15:42:10+00:00",
+ "actualizado": "2026-11-20T18:41:51+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-20T18:41:51+00:00",
+   "titulo": "El Carrizal: la exposición «Conocer para Conservar» sobre flora canaria se puede visitar hasta el domingo 22.",
+   "resumen": "Parque del Buen Suceso (El Carrizal), hasta el domingo 22 de noviembre. Muestra itinerante de la campaña del Cabildo y el Jardín Botánico Canario Viera y Clavijo, con el Ayuntamiento de Ingenio",
+   "enlace": "https://ingenio.es/nueva-accion-de-la-campana-conocer-para-conservar-en-la-villa-de-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-ingenio-conocer-conservar.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-20T18:41:51+00:00",
+   "titulo": "Ingenio: el libro «Gran Canaria Singular. Calando Cultura» recoge el legado artesanal del calado.",
+   "resumen": "Se distribuirá en centros educativos y bibliotecas municipales; no estará a la venta. Presentado el jueves 19 de noviembre en el Salón de Plenos con la consejera de Cultura del Cabildo, Guacimara Medina",
+   "enlace": "https://ingenio.es/gran-canaria-singular-calando-cultura-recoge-en-un-libro-el-legado-artesanal-del-calado-y-su-proyeccion-hacia-el-futuro/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-ingenio-libro-calando.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-20T18:41:51+00:00",
+   "titulo": "Agüimes: nuevo centro Essenza de pilates y nutrición para la mujer, en el casco histórico.",
+   "resumen": "Calle Juan Alvarado y Saz, 66 (casco histórico de Agüimes). Pilates para embarazadas y posparto, suelo pélvico, hipopresivos, pilates clásico y barre",
+   "enlace": "https://aguimes.es/el-alcalde-de-aguimes-visita-un-nuevo-centro-especializado-en-pilates-y-nutricion-para-la-mujer/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-aguimes-essenza.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-20T15:42:10+00:00",
    "titulo": "Cruce de Arinaga: cortes puntuales de tráfico el lunes 23 y martes 24 por las obras del Parque del Barranquillo.",
@@ -216,14 +240,6 @@
    "enlace": "https://ingenio.es/el-karate-reune-a-300-jovenes-deportistas-en-el-campeonato-insular-de-categorias-base-celebrado-en-ingenio/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1900-karate-ingenio.png",
    "urgente": false
-  },
-  {
-   "fecha": "2026-11-13T16:07:04+00:00",
-   "titulo": "Canarias: el Gobierno finaliza la prealerta por inundaciones (PEINCA) en Gran Canaria a las 15:00 de hoy, viernes 13.",
-   "resumen": "Sigue vigente la prealerta por desprendimientos (PLATECA): respeta las restricciones en las vías. La DG de Emergencias da por terminado el riesgo de inundaciones costeras, pluviales y fluviales por la borrasca Charles",
-   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finaliza-la-situacion-de-alerta-por-riesgo-de-inundaciones-en-la-palma/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1610-fin-peinca.png",
-   "urgente": true
   }
  ]
 }
