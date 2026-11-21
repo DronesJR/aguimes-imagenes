@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-20T18:41:51+00:00",
+ "actualizado": "2026-11-21T09:42:43+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-21T09:42:43+00:00",
+   "titulo": "Vecindario: FESTEJE trae 8 espectáculos al Teatro Víctor Jara del 26 al 29 de noviembre.",
+   "resumen": "Teatro Víctor Jara (Vecindario): teatro, danza, circo y títeres para jóvenes espectadores. Abre el jueves 26 con «Bragas vintage XL» (Mi mamá me mima)",
+   "enlace": "https://www.santaluciagc.com/danza-teatro-titeres-y-circo-en-el-festival-de-las-artes-escenicas-para-jovenes-en-el-teatro-victor-jara/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-21-0941-vecindario-festeje.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-21T09:42:43+00:00",
+   "titulo": "Vecindario: domingo 22 de noviembre, jornada «Santa Lucía, Ciudad de la Infancia» en el Recinto Ferial.",
+   "resumen": "De 10:00 a 14:00, en el Recinto Ferial de Vecindario, para niños, niñas y familias. Juegos, talleres creativos y espacios de dinamización familiar",
+   "enlace": "https://www.santaluciagc.com/cuatrocientos-ninos-y-ninas-piden-en-vecindario-que-se-respeten-los-derechos-de-la-infancia-en-canarias-y-en-el-mundo/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-21-0941-vecindario-dia-infancia.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-21T09:42:43+00:00",
+   "titulo": "Vecindario: miles de personas en el encendido navideño de la Avenida de Canarias (vie 20 nov).",
+   "resumen": "El programa de Navidad de Santa Lucía suma más de 50 actividades hasta Reyes. Espectáculo en la plaza de Los Algodoneros con encendido del alcalde, la concejala de Comercio y un niño",
+   "enlace": "https://www.santaluciagc.com/la-zona-comercial-de-vecindario-se-enciende-para-convertir-a-santa-lucia-en-el-hogar-de-la-navidad/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-21-0941-vecindario-encendido-cronica.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-20T18:41:51+00:00",
    "titulo": "El Carrizal: la exposición «Conocer para Conservar» sobre flora canaria se puede visitar hasta el domingo 22.",
@@ -223,22 +247,6 @@
    "resumen": "Educación vial y cultura de la prevención con Policía Local, Policía Canaria y Protección Civil. Encuentro Infantil de Emergencias celebrado el viernes 13 de noviembre en la Karpa de Vecindario",
    "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/13/cerca-medio-millar-escolares-santa-136420786.html",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-14-1300-santalucia-emergencias.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-13T18:41:56+00:00",
-   "titulo": "El Carrizal: la Flúor Moon Diabetes llena la avenida Carlos V este sábado 14 de noviembre.",
-   "resumen": "Caminata popular abierta a todo el mundo a las 21:20 h, sin necesidad de dorsal. Dorsales agotados (1.500 plazas); recogida en el Parque de los Aromeros: vie 13, 16:00-20:00 y sáb 14, 10:00-14:00",
-   "enlace": "https://ingenio.es/la-fluor-moon-diabetes-iluminara-el-carrizal-este-sabado-con-una-edicion-muy-especial-por-el-dia-mundial-de-la-diabetes/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1900-fluor-moon.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-13T18:41:56+00:00",
-   "titulo": "Ingenio: 300 jóvenes de 11 clubes compitieron en el Campeonato Insular de kárate de base.",
-   "resumen": "Se celebró el sábado 7 de noviembre en el Pabellón Municipal Chano Melián. Modalidades de kata y kumite en benjamín, alevín, infantil y juvenil",
-   "enlace": "https://ingenio.es/el-karate-reune-a-300-jovenes-deportistas-en-el-campeonato-insular-de-categorias-base-celebrado-en-ingenio/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-13-1900-karate-ingenio.png",
    "urgente": false
   }
  ]
