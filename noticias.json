@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-23T12:41:51+00:00",
+ "actualizado": "2026-11-23T15:42:58+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-23T15:42:58+00:00",
+   "titulo": "Agüimes: entregadas las acreditaciones del curso de COAG para mejorar el empleo en el mundo rural.",
+   "resumen": "El programa «Todo al Verde» combina orientación, formación e intermediación laboral. Entrega en el Salón de Plenos, con el alcalde Óscar Hernández y la concejala Cati Suárez",
+   "enlace": "https://aguimes.es/la-coag-forma-a-personas-del-municipio-para-mejorar-su-insercion-laboral-en-el-mundo-rural/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-1600-coag-formacion-rural.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-23T15:42:58+00:00",
+   "titulo": "Ingenio: celebración multitudinaria del encendido navideño en la plaza de la Candelaria (sáb 21 nov).",
+   "resumen": "La decoración se puede recorrer a pie por la plaza de la Candelaria y los parques Francisco Tarajano y Néstor Álamo. Encendió la Navidad Alexandra, de siete años, junto a la alcaldesa Vanesa Martín",
+   "enlace": "https://ingenio.es/ingenio-enciende-la-navidad-con-una-celebracion-multitudinaria-y-una-gran-apuesta-por-la-ilusion-y-la-identidad-local/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-1600-ingenio-enciende-navidad.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-23T15:42:58+00:00",
+   "titulo": "Ingenio: excursiones familiares a Santa Catalina (sáb 5 dic) y Maspalomas (sáb 26 dic), con inscripción.",
+   "resumen": "Plazas limitadas: inscripción con el QR del cartel o por WhatsApp en el 648 82 60 72. Ambas salidas, de 17:00 a 22:00, con transporte organizado con el Cabildo",
+   "enlace": "https://ingenio.es/la-campana-de-navidad-invita-a-la-ciudadania-a-disfrutar-de-dos-excursiones-familiares-a-las-palmas-de-gran-canaria-y-maspalomas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-1600-ingenio-excursiones-navidad.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-23T12:41:51+00:00",
    "titulo": "Agüimes: exposición sobre la historia de Ingenio y Agüimes (1791-1942), hasta el 2 de enero.",
