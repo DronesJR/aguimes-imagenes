@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-23T18:42:51+00:00",
+ "actualizado": "2026-11-23T21:41:35+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-23T21:41:35+00:00",
+   "titulo": "Vecindario: feria de eventos y celebraciones con más de 40 empresas, viernes 27 y sábado 28 de noviembre.",
+   "resumen": "Zona peatonal de la avenida de Canarias, de 10:00 a 22:00 horas. Décima edición, organizada por ASCOIVE con el Ayuntamiento de Santa Lucía y el Cabildo",
+   "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/23/vecindario-reune-40-empresas-feria-136768066.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-2200-vecindario-feria-eventos.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-23T18:42:51+00:00",
    "titulo": "Agüimes: última campaña de donación de sangre del año, del lunes 23 al viernes 27 de noviembre.",
