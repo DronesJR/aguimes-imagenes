@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-23T15:42:58+00:00",
+ "actualizado": "2026-11-23T18:42:51+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-23T18:42:51+00:00",
+   "titulo": "Agüimes: última campaña de donación de sangre del año, del lunes 23 al viernes 27 de noviembre.",
+   "resumen": "Unidad móvil junto al Ayuntamiento (hoy y mañana), Cruce de Arinaga (hasta el jueves) y Playa de Arinaga (viernes). Av. Joaquín Artiles, junto al Ayuntamiento: hoy y mañana, 9:30-13:30 y 16:15-20:30",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-scs-promociona-esta-semana-la-donacion-de-sangre-en-aguimes/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-1900-sangre-aguimes.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-23T18:42:51+00:00",
+   "titulo": "Agüimes y Playa de Arinaga: la línea 22 suma cuatro expediciones nocturnas diarias desde el lunes 23 de noviembre.",
+   "resumen": "Todos los días, también sábados, domingos y festivos. Agüimes → Playa de Arinaga: 23:30 y 00:30",
+   "enlace": "https://politican.es/nota/18077/el-cabildo-de-gran-canaria-amplia-las-conexiones-nocturnas-entre-aguimes-y-playa-de-arinaga-y-mejora-el-servicio-de-transporte-publico-en-sardina-del-sur/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-1900-linea22-nocturna.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-23T15:42:58+00:00",
    "titulo": "Agüimes: entregadas las acreditaciones del curso de COAG para mejorar el empleo en el mundo rural.",
