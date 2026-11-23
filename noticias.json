@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-21T09:42:43+00:00",
+ "actualizado": "2026-11-23T12:41:51+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-23T12:41:51+00:00",
+   "titulo": "Agüimes: exposición sobre la historia de Ingenio y Agüimes (1791-1942), hasta el 2 de enero.",
+   "resumen": "Sala de Exposiciones del Museo de Historia de Agüimes, de martes a sábado de 9:00 a 17:00. «Retazos y curiosidades de la historia del sureste. Ingenio-Agüimes 1791-1942», de Mima Morales Suárez",
+   "enlace": "https://aguimes.es/una-exposicion-rescata-el-papel-de-la-familia-morales-suarez-en-la-historia-del-sureste/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-23-1300-agueimes-retazos.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-21T09:42:43+00:00",
    "titulo": "Vecindario: FESTEJE trae 8 espectáculos al Teatro Víctor Jara del 26 al 29 de noviembre.",
@@ -223,30 +231,6 @@
    "resumen": "Teatro Víctor Jara, de 20:00 a 22:00; entradas en tureservaonline. Lema: «Juntos brillamos más»; actúan también Vecindario Dance Studio y los niños y niñas de la asociación",
    "enlace": "https://www.santaluciagc.com/nia-y-antonia-san-juan-actuaran-en-la-gala-solidaria-de-asdownsur-el-28-de-noviembre-en-el-teatro-victor-jara/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-16-2200-gala-asdownsur.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-15T12:41:56+00:00",
-   "titulo": "Agüimes ya luce la Navidad: el Cruce de Arinaga encendió más de 700.000 leds el sábado 14.",
-   "resumen": "La iluminación seguirá encendida en Arinaga, Agüimes y el resto de barrios durante las próximas semanas. Espectáculo «Fábrica de sueños para compartir» en la avenida de Ansite, con Kiko Barroso, y conciertos de Los Sabandeños y Escuela de Calor",
-   "enlace": "https://aguimes.es/aguimes-da-la-bienvenida-a-la-navidad-con-un-multitudinario-encendido-de-luces/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-15-1300-encendido-arinaga.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-15T06:42:20+00:00",
-   "titulo": "Ingenio: 50 creaciones de calado y cinco diseñadores en el XXVI desfile de Moda Calada del sábado 14.",
-   "resumen": "Caladoras del municipio y diseñadores llevaron esta técnica artesanal a la moda actual. Parque Néstor Álamo; colecciones de Modesto Lomba, Franco Quintáns, Juan Carlos Armas, Oswaldo Machín y Angie Vásquez",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/calado-ingenio-conquista-pasarela-obras-arte-cinco-20261114221622-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-15-0700-moda-calada-ingenio.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-14T12:42:09+00:00",
-   "titulo": "Vecindario: cerca de 500 escolares de 8 colegios conocieron los medios de emergencia en la Karpa.",
-   "resumen": "Educación vial y cultura de la prevención con Policía Local, Policía Canaria y Protección Civil. Encuentro Infantil de Emergencias celebrado el viernes 13 de noviembre en la Karpa de Vecindario",
-   "enlace": "https://www.laprovincia.es/gran-canaria/2026/11/13/cerca-medio-millar-escolares-santa-136420786.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-14-1300-santalucia-emergencias.png",
    "urgente": false
   }
  ]
