@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-24T12:42:11+00:00",
+ "actualizado": "2026-11-24T15:42:42+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-24T15:42:42+00:00",
+   "titulo": "Agüimes: Mercado Navideño con 47 puestos en la plaza del Rosario, del viernes 27 al domingo 29 de noviembre.",
+   "resumen": "Horario: vie 27, 17:00-21:00; sáb 28, 10:00-21:00; dom 29, 10:00-15:00. Banda de Agüimes (vie 20:00), Mago Aday (sáb 12:00), títeres «La Navidad de Musi» (sáb 17:30), Parranda Los Apañaos (sáb 19:45) y Zapitto (dom 12:00)",
+   "enlace": "https://aguimes.es/espectaculos-familiares-y-47-stands-animaran-el-mercado-navideno-este-fin-de-semana/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-24-1600-mercado-navideno-aguimes.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-24T15:42:42+00:00",
+   "titulo": "Agüimes abre la convocatoria de becas deportivas: 9.000 € para deportistas no profesionales empadronados.",
+   "resumen": "Solicitud en el Registro General (C/ Joaquín Artiles, 1) en 15 días hábiles desde el BOP del lunes 23 de noviembre. Ayudas de 250 a 600 € según puntuación; ficha federativa en vigor en modalidad olímpica o deporte autóctono canario",
+   "enlace": "https://aguimes.es/abierto-el-plazo-para-optar-a-9-000-euros-en-becas-para-deportistas-del-municipio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-24-1600-becas-deportistas.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-24T12:42:11+00:00",
    "titulo": "Ingenio: la Coral Femenina Chelys Odalys celebra sus 25 años con un concierto el sábado 28 de noviembre.",
