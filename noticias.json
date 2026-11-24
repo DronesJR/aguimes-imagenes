@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-24T06:42:27+00:00",
+ "actualizado": "2026-11-24T12:42:11+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-24T12:42:11+00:00",
+   "titulo": "Ingenio: la Coral Femenina Chelys Odalys celebra sus 25 años con un concierto el sábado 28 de noviembre.",
+   "resumen": "Sábado 28 a las 20:00, Centro Cultural Federico García Lorca. Entrada libre y gratuita hasta completar aforo. Concierto especial por el 25 aniversario de la coral",
+   "enlace": "https://ingenio.es/la-coral-femenina-chelys-odalys-celebra-sus-25-anos-de-trayectoria-con-un-concierto-especial-en-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-24-1300-coral-chelys.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-24T12:42:11+00:00",
+   "titulo": "Ingenio: la iglesia de La Candelaria ya luce su belén, con elementos de la identidad del municipio.",
+   "resumen": "Se puede visitar en la Iglesia de Nuestra Señora de la Candelaria, en la Villa de Ingenio. Escenas bíblicas, figuras de detalle, agua que corre, molinos y luces",
+   "enlace": "https://ingenio.es/la-candelaria-luce-un-belen-que-recorre-la-historia-del-nacimiento-de-jesus-incorporando-la-identidad-de-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-24-1300-belen-candelaria.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-24T12:42:11+00:00",
+   "titulo": "Ingenio: «Ancestros; ritos y costumbres» recorrió el viernes 20 los rituales funerarios tradicionales de Canarias.",
+   "resumen": "• Espectáculo histórico-etnográfico en el Centro Cultural Federico García Lorca Espectáculo histórico-etnográfico en el Centro Cultural Federico García Lorca",
+   "enlace": "https://ingenio.es/ancestros-ritos-y-costumbres-un-viaje-a-nuestras-raices-y-a-la-memoria-de-canarias/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-24-1300-ancestros-ingenio.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-24T06:42:27+00:00",
    "titulo": "Arinaga: autorizada la nueva subestación eléctrica de E-Distribución, con 5,05 millones de inversión.",
@@ -263,14 +287,6 @@
    "resumen": "Música y baile en la plaza Primero de Mayo; el día grande es el domingo 29. Vie 20, 21:00: Attenya; sáb 21: Dj Airam Vega, Pedro Afonso y Ritmo Bakano",
    "enlace": "https://aguimes.es/el-cruce-de-arinaga-celebrara-las-fiestas-de-la-milagrosa-del-20-al-29-de-noviembre/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1600-milagrosa.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-17T12:41:54+00:00",
-   "titulo": "Cruce de Arinaga: la jornada «Agüimes Infinita» reúne a alumnado y familias por la igualdad (mar 17).",
-   "resumen": "Tres ponencias en el Teatro Cruce de Culturas, abiertas a Bachillerato, familias y público general. Diversidad LGTBIQ+ e identidad de género desde la infancia, educación afectivo-sexual y masculinidades igualitarias",
-   "enlace": "https://aguimes.es/la-jornada-aguimes-infinita-reune-a-alumnado-familias-y-ciudadania-en-torno-a-la-igualdad/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1300-aguimes-infinita.png",
    "urgente": false
   }
  ]
