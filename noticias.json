@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-23T21:41:35+00:00",
+ "actualizado": "2026-11-24T06:42:27+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-24T06:42:27+00:00",
+   "titulo": "Arinaga: autorizada la nueva subestación eléctrica de E-Distribución, con 5,05 millones de inversión.",
+   "resumen": "Resolución publicada el lunes 23 de noviembre en el BOE; plazo para pedir la puesta en servicio: 18 meses. Subestación de 66/20 kV y cuatro líneas subterráneas de media tensión (más de 6 km)",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/autorizada-nueva-subestacion-arinaga-ocupacion-terrenos-20261124070000-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-24-0700-subestacion-arinaga.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-23T21:41:35+00:00",
    "titulo": "Vecindario: feria de eventos y celebraciones con más de 40 empresas, viernes 27 y sábado 28 de noviembre.",
@@ -263,22 +271,6 @@
    "resumen": "Tres ponencias en el Teatro Cruce de Culturas, abiertas a Bachillerato, familias y público general. Diversidad LGTBIQ+ e identidad de género desde la infancia, educación afectivo-sexual y masculinidades igualitarias",
    "enlace": "https://aguimes.es/la-jornada-aguimes-infinita-reune-a-alumnado-familias-y-ciudadania-en-torno-a-la-igualdad/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1300-aguimes-infinita.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-16T21:42:11+00:00",
-   "titulo": "Santa Lucía: el Ateneo Municipal acoge desde el lunes 16 la exposición «Esta es mi historia».",
-   "resumen": "Son 16 fotografías hechas de forma participativa para concienciar sobre la violencia de género. Basadas en testimonios reales de mujeres supervivientes; talleres del colectivo «La Observadora»",
-   "enlace": "https://www.santaluciagc.com/el-ateneo-municipal-acoge-la-exposicion-esta-es-mi-historia-testimonios-de-resistencia/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-16-2200-expo-testimonios.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-16T21:42:11+00:00",
-   "titulo": "Vecindario: Nía y Antonia San Juan actúan en la Gala Solidaria de Asdownsur el sábado 28 de noviembre.",
-   "resumen": "Teatro Víctor Jara, de 20:00 a 22:00; entradas en tureservaonline. Lema: «Juntos brillamos más»; actúan también Vecindario Dance Studio y los niños y niñas de la asociación",
-   "enlace": "https://www.santaluciagc.com/nia-y-antonia-san-juan-actuaran-en-la-gala-solidaria-de-asdownsur-el-28-de-noviembre-en-el-teatro-victor-jara/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-16-2200-gala-asdownsur.png",
    "urgente": false
   }
  ]
