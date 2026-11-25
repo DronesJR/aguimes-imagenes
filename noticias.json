@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-25T15:43:20+00:00",
+ "actualizado": "2026-11-25T18:42:37+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-25T18:42:37+00:00",
+   "titulo": "Cruce de Arinaga: las fiestas de La Milagrosa cierran con música en directo hasta el domingo 29.",
+   "resumen": "Merienda y baile para mayores el jueves 26 (18:00), Grupo Ecos, Son Canario y DJ Abian Reyes el viernes 27, verbena el sábado 28 y paella popular con Verbena del Solajero el domingo 29, en la plaza Primero de Mayo",
+   "enlace": "https://aguimes.es/la-musica-en-directo-protagoniza-la-recta-final-de-las-fiestas-de-la-milagrosa/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-25-1900-milagrosa-recta-final.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-25T15:43:20+00:00",
    "titulo": "Ingenio: concentración hoy, miércoles 25, a las 20:00 en La Jurada por el 25N.",
@@ -287,14 +295,6 @@
    "resumen": "Conectará la Casa de la Cultura con la plaza y el parque infantil. Unos 52 metros de longitud, financiados íntegramente por el Ayuntamiento de Agüimes",
    "enlace": "https://aguimes.es/la-nueva-acera-de-la-calle-de-falla-en-las-rosas-podria-estar-terminada-en-las-proximas-semanas/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1240-acera-las-rosas.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-18T18:42:13+00:00",
-   "titulo": "Vecindario: más de 300 inscritos en el congreso contra la violencia de género, jueves 19 de noviembre.",
-   "resumen": "Segunda sesión el jueves desde las 16:00 en el Teatro Víctor Jara; también en directo en YouTube (RTV Tagoror). III Congreso Internacional de Perspectivas Interdisciplinarias en la prevención de la violencia (miércoles 18 y jueves 19, por la tarde)",
-   "enlace": "https://www.santaluciagc.com/mas-de-300-inscritos-en-el-congreso-internacional-contra-la-violencia-de-genero-que-se-celebra-en-el-teatro-victor-jara/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1900-congreso-violencia-vecindario.png",
    "urgente": false
   }
  ]
