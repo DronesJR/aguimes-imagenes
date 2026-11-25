@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-24T15:42:42+00:00",
+ "actualizado": "2026-11-25T12:43:08+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-25T12:43:08+00:00",
+   "titulo": "Agüimes: 12 alumnos del Aula Enclave del IES Cruce de Arinaga visitaron el Ayuntamiento este miércoles 25.",
+   "resumen": "• Conocieron el Salón de Plenos, Alcaldía, la Policía Local y la Oficina de Atención al Ciudadano Conocieron el Salón de Plenos, Alcaldía, la Policía Local y la Oficina de Atención al Ciudadano",
+   "enlace": "https://aguimes.es/el-alumnado-del-aula-enclave-visita-las-instalaciones-del-ayuntamiento-de-aguimes/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-25-1300-aula-enclave.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-25T12:43:08+00:00",
+   "titulo": "Vecindario: cientos de escolares leyeron un manifiesto contra la violencia de género el martes 24 de noviembre.",
+   "resumen": "• Dos marchas, desde el Cruce de Sardina y el Doctoral, confluyeron en la plaza de Los Algodoneros Dos marchas, desde el Cruce de Sardina y el Doctoral, confluyeron en la plaza de Los Algodoneros",
+   "enlace": "https://www.santaluciagc.com/cientos-de-escolares-recorren-las-calles-de-vecindario-para-gritar-contra-la-violencia-machista/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-25-1300-escolares-vecindario.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-24T15:42:42+00:00",
    "titulo": "Agüimes: Mercado Navideño con 47 puestos en la plaza del Rosario, del viernes 27 al domingo 29 de noviembre.",
@@ -279,30 +295,6 @@
    "resumen": "Centro de Mayores de Ingenio, calle Ramón y Cajal 36; unas tres horas con pausa café. Imparte el economista Guillermo Marrero de la Nuez",
    "enlace": "https://ingenio.es/jornada-de-educacion-financiera-dirigida-a-las-personas-mayores-de-la-villa-de-ingenio/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1600-educacion-financiera-mayores.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-18T12:42:10+00:00",
-   "titulo": "Cruce de Arinaga: Flamenco Jazz Fusión, sábado 21 de noviembre a las 20:00.",
-   "resumen": "Entradas a 5 € en tureservaonline.es; Teatro Cruce de Culturas. Pilar Ochoa (clarinete), Yuniel Rascón (guitarra) y Totó Noriega (percusión)",
-   "enlace": "https://aguimes.es/el-teatro-cruce-de-culturas-acoge-un-viaje-musical-entre-el-flamenco-y-el-jazz/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-18-1300-flamenco-jazz.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-17T18:41:45+00:00",
-   "titulo": "Vecindario: encendido navideño en la Avenida de Canarias el viernes 20 de noviembre.",
-   "resumen": "Abre un programa de más de 50 actividades del Ayuntamiento y Ascoive, hasta la Cabalgata de Reyes. Feria de Eventos y Celebraciones en la zona peatonal: viernes 27 y sábado 28 de noviembre",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/santa-lucia-prepara-navidad-medio-centenar-actividades-20261117164800-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1900-navidad-santalucia.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-17T15:42:51+00:00",
-   "titulo": "Cruce de Arinaga: fiestas de La Milagrosa del viernes 20 al domingo 29 de noviembre.",
-   "resumen": "Música y baile en la plaza Primero de Mayo; el día grande es el domingo 29. Vie 20, 21:00: Attenya; sáb 21: Dj Airam Vega, Pedro Afonso y Ritmo Bakano",
-   "enlace": "https://aguimes.es/el-cruce-de-arinaga-celebrara-las-fiestas-de-la-milagrosa-del-20-al-29-de-noviembre/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-17-1600-milagrosa.png",
    "urgente": false
   }
  ]
