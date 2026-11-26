@@ -1,6 +1,22 @@
 {
- "actualizado": "2026-11-25T18:42:37+00:00",
+ "actualizado": "2026-11-26T09:42:08+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-26T09:42:08+00:00",
+   "titulo": "Vecindario: el parque Camilo Sánchez no completará su instalación eléctrica hasta el 1 de marzo de 2027.",
+   "resumen": "La obra civil sigue en marcha, según fuentes municipales. Modificado del contrato eléctrico: +28,54 %, hasta 623.640,38 € (sobrecoste de 138.451,10 €)",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/parque-camilo-sanchez-retrasa-finalizacion-marzo-2027-20261126073000-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1000-camilo-sanchez.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-26T09:42:08+00:00",
+   "titulo": "Santa Lucía: el 56,7 % de los jóvenes se ve capaz de afrontar sus dificultades, según un estudio municipal.",
+   "resumen": "El Ayuntamiento buscará financiación desde enero para seguir creando espacios de encuentro. Estudio de Trib-Arte sobre soledad no deseada: 374 jóvenes, 73 profesionales y 26 familias",
+   "enlace": "https://www.santaluciagc.com/mas-de-la-mitad-de-la-juventud-de-santa-lucia-de-tirajana-se-ve-capaz-de-afrontar-las-dificultades/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1000-soledad-adolescente.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-25T18:42:37+00:00",
    "titulo": "Cruce de Arinaga: las fiestas de La Milagrosa cierran con música en directo hasta el domingo 29.",
