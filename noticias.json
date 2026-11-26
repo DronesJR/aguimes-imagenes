@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-26T15:43:15+00:00",
+ "actualizado": "2026-11-26T18:41:59+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-26T18:41:59+00:00",
+   "titulo": "Agüimes presenta el III Plan Municipal de Juventud 2026-2030, con siete ejes y 15 programas.",
+   "resumen": "El documento será llevado al Pleno municipal para su aprobación. Parte de un diagnóstico con 488 encuestas (muestra analítica de 179 jóvenes de 12 a 35 años); la juventud es el 22 % de la población",
+   "enlace": "https://aguimes.es/aguimes-presenta-su-iii-plan-de-juventud-con-siete-ejes-de-intervencion-y-15-programas/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1900-plan-juventud-aguimes.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-26T15:43:15+00:00",
    "titulo": "Gran Canaria: el Gobierno finaliza la prealerta por desprendimientos desde las 15:00 de hoy, jueves 26.",
