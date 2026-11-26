@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-26T09:42:08+00:00",
+ "actualizado": "2026-11-26T12:42:31+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-26T12:42:31+00:00",
+   "titulo": "Agüimes: el patinador Tristán Robaina, de 16 años, logra el bronce en la Copa de Europa de Patinaje Artístico.",
+   "resumen": "• Categoría Juvenil Masculino de Solo Danza, en Alemania; representó a España Categoría Juvenil Masculino de Solo Danza, en Alemania; representó a España",
+   "enlace": "https://aguimes.es/el-ayuntamiento-reconoce-el-exito-europeo-del-joven-patinador-aguimense-tristan-robaina/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1245-patinador-tristan-robaina.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-26T09:42:08+00:00",
    "titulo": "Vecindario: el parque Camilo Sánchez no completará su instalación eléctrica hasta el 1 de marzo de 2027.",
@@ -303,14 +311,6 @@
    "resumen": "Planifica el viaje: el Ayuntamiento recomienda guagua, taxi o ir a pie. Playa del Burrero → Los Molinillos: 17:30, 18:00 y 19:00",
    "enlace": "https://ingenio.es/ingenio-anima-a-planificar-los-desplazamientos-ante-la-gran-afluencia-prevista-para-el-encendido-y-mercado-navideno/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-guagua85-encendido.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-19T12:42:06+00:00",
-   "titulo": "Las Rosas: nueva acera en la calle Falla, 43.000 €, prevista para finales de noviembre.",
-   "resumen": "Conectará la Casa de la Cultura con la plaza y el parque infantil. Unos 52 metros de longitud, financiados íntegramente por el Ayuntamiento de Agüimes",
-   "enlace": "https://aguimes.es/la-nueva-acera-de-la-calle-de-falla-en-las-rosas-podria-estar-terminada-en-las-proximas-semanas/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1240-acera-las-rosas.png",
    "urgente": false
   }
  ]
