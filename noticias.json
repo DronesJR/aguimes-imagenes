@@ -1,6 +1,38 @@
 {
- "actualizado": "2026-11-26T12:42:31+00:00",
+ "actualizado": "2026-11-26T15:43:15+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-26T15:43:15+00:00",
+   "titulo": "Gran Canaria: el Gobierno finaliza la prealerta por desprendimientos desde las 15:00 de hoy, jueves 26.",
+   "resumen": "Las afecciones que quedan en carreteras seguirán en seguimiento de las administraciones: precaución al circular. La DG de Emergencias da por terminada la prealerta del PLATECA en El Hierro, La Palma, La Gomera, Tenerife y Gran Canaria",
+   "enlace": "https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-finalizada-la-prealerta-por-desprendimientos-en-islas-occidentales-y-gran-canaria/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1545-fin-prealerta-desprendimientos.png",
+   "urgente": true
+  },
+  {
+   "fecha": "2026-11-26T15:43:15+00:00",
+   "titulo": "Cruce de Arinaga: la oficina móvil del DNI vuelve a la plaza Primero de Mayo el martes 1 de diciembre.",
+   "resumen": "Pide cita previa en la web del Ayuntamiento de Agüimes; atención de 9:00 a 12:30. Servicio de la Policía Nacional para expedir y renovar el DNI; tasa de 12 € en efectivo (exentas las familias numerosas)",
+   "enlace": "https://aguimes.es/la-oficina-movil-de-expedicion-y-renovacion-del-dni-vuelve-al-cruce-de-arinaga-el-1-de-diciembre/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1545-dni-movil-cruce-arinaga.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-26T15:43:15+00:00",
+   "titulo": "El Carrizal: el IES Carrizal acoge el jueves 3 de diciembre una jornada de donación de sangre abierta a todos.",
+   "resumen": "Horario de 9:15 a 13:30; inscríbete con el formulario del centro y lleva el documento de identidad. Pueden donar personas de 18 a 65 años (hasta 60 en la primera donación) que pesen más de 50 kg y estén en buen estado de salud",
+   "enlace": "https://ingenio.es/campana-de-hemodonacion-curso-2026-27-del-ies-carrizal/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1545-hemodonacion-ies-carrizal.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-26T15:43:15+00:00",
+   "titulo": "Ingenio: periodistas y profesionales de Corea del Sur, EE. UU. y Canadá visitaron la Villa en septiembre y octubre.",
+   "resumen": "Los viajes los organizó Turismo de Gran Canaria con las Oficinas Españolas de Turismo y Promotur. Recorrido por el casco antiguo, la Panadería Amaro (pan de puño) y Guayadeque",
+   "enlace": "https://ingenio.es/ingenio-refuerza-su-proyeccion-turistica-internacional-con-la-visita-de-periodistas-y-profesionales-del-sector/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-26-1545-ingenio-turismo-press-trips.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-26T12:42:31+00:00",
    "titulo": "Agüimes: el patinador Tristán Robaina, de 16 años, logra el bronce en la Copa de Europa de Patinaje Artístico.",
@@ -279,38 +311,6 @@
    "resumen": "• El Ayuntamiento formalizó el nombramiento por decreto fechado el 12 de noviembre El Ayuntamiento formalizó el nombramiento por decreto fechado el 12 de noviembre",
    "enlace": "https://www.canarias7.es/canarias/gran-canaria/salustiano-toledo-releva-jose-luis-herrera-frente-20261119135753-nt.html",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-0700-santa-lucia-jefe-policia.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-19T15:42:50+00:00",
-   "titulo": "Agüimes: Lolita Flores interpreta «Poncia» este viernes 20 de noviembre, 20:00, en el Teatro Auditorio.",
-   "resumen": "Función en el Teatro Auditorio Agüimes. Obra de Luis Luque basada en la criada de «La casa de Bernarda Alba», de Lorca",
-   "enlace": "https://aguimes.es/lolita-flores-dara-vida-a-la-criada-de-bernarda-alba-este-viernes-en-el-teatro-auditorio/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-aguimes-poncia-lolita-flores.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-19T15:42:50+00:00",
-   "titulo": "El Carrizal: presentado el libro «Guanches» en la Biblioteca Municipal (miércoles 18).",
-   "resumen": "• Autor: A. José Farrujia de la Rosa, arqueólogo y profesor de la Universidad de La Laguna; es su obra número 16 Autor: A. José Farrujia de la Rosa, arqueólogo y profesor de la Universidad de La Laguna; es su obra número 16",
-   "enlace": "https://ingenio.es/la-biblioteca-municipal-de-el-carrizal-acoge-la-presentacion-de-guanches-relatos-de-nuestro-mundo-ancestral/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-libro-guanches.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-19T15:42:49+00:00",
-   "titulo": "Ingenio: prohibido aparcar en el casco desde las 7:00 del sábado 21 por el Encendido Navideño.",
-   "resumen": "Presta atención a la señalización y a la Policía Local; evita el coche particular en la zona. Sin estacionamiento: calles Ramón y Cajal, Plaza de la Candelaria y alrededores, Sor María Jesús Romero (C/ Arado) y Plaza Adolfo Suárez",
-   "enlace": "https://ingenio.es/restricciones-de-estacionamiento-y-cortes-puntuales-de-trafico-en-el-casco-de-ingenio-por-el-encendido-navideno/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-trafico-encendido.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-19T15:42:49+00:00",
-   "titulo": "Ingenio refuerza la línea 85 el sábado 21 por el Encendido y Mercado Navideño.",
-   "resumen": "Planifica el viaje: el Ayuntamiento recomienda guagua, taxi o ir a pie. Playa del Burrero → Los Molinillos: 17:30, 18:00 y 19:00",
-   "enlace": "https://ingenio.es/ingenio-anima-a-planificar-los-desplazamientos-ante-la-gran-afluencia-prevista-para-el-encendido-y-mercado-navideno/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-19-1600-ingenio-guagua85-encendido.png",
    "urgente": false
   }
  ]
