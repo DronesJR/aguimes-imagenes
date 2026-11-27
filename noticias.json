@@ -1,6 +1,30 @@
 {
- "actualizado": "2026-11-27T09:42:32+00:00",
+ "actualizado": "2026-11-27T15:43:18+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-27T15:43:18+00:00",
+   "titulo": "Ingenio: almuerzo de Navidad para mayores de 60 el viernes 11 de diciembre, con música de Yaracuy.",
+   "resumen": "Inscripción previa en el Centro de Mayores de Ingenio, hasta completar plazas. Finca La Granja de Ingenio, de 13:00 a 18:00 h",
+   "enlace": "https://ingenio.es/ingenio-celebra-la-navidad-con-sus-mayores/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-27-1600-ingenio-almuerzo-navidad-mayores.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-27T15:43:18+00:00",
+   "titulo": "Ingenio: taller de lectura «Amigos Lectores» para mayores de 60, del 16 de diciembre al 27 de enero.",
+   "resumen": "Inscripción en el Centro de Mayores o en el 928 782 375. Miércoles 16 de diciembre de 2026 a 27 de enero de 2027, de 09:30 a 11:30 h",
+   "enlace": "https://ingenio.es/amigos-lectores-invita-a-compartir-historias-y-reflexiones-en-el-centro-de-mayores-de-ingenio/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-27-1600-ingenio-amigos-lectores.png",
+   "urgente": false
+  },
+  {
+   "fecha": "2026-11-27T15:43:18+00:00",
+   "titulo": "El Carrizal: el alumnado del IES Carrizal alza su voz contra la violencia machista en el 25N.",
+   "resumen": "• Acto con música, danza, teatro y lectura de un manifiesto (miércoles 25) Acto con música, danza, teatro y lectura de un manifiesto (miércoles 25)",
+   "enlace": "https://ingenio.es/el-alumnado-del-ies-carrizal-alza-su-voz-contra-la-violencia-machista-a-traves-del-arte-y-la-educacion/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-27-1600-ingenio-25n-ies-carrizal.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-27T09:42:32+00:00",
    "titulo": "Santa Lucía: aprobada la ordenanza que veta patinetas en aceras y zonas peatonales; mínimo 15 años y casco.",
@@ -279,38 +303,6 @@
    "resumen": "Calle Juan Alvarado y Saz, 66 (casco histórico de Agüimes). Pilates para embarazadas y posparto, suelo pélvico, hipopresivos, pilates clásico y barre",
    "enlace": "https://aguimes.es/el-alcalde-de-aguimes-visita-un-nuevo-centro-especializado-en-pilates-y-nutricion-para-la-mujer/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-aguimes-essenza.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T15:42:10+00:00",
-   "titulo": "Cruce de Arinaga: cortes puntuales de tráfico el lunes 23 y martes 24 por las obras del Parque del Barranquillo.",
-   "resumen": "Retira tu vehículo de las zonas con prohibición de estacionar y sigue la señalización y a la Policía Local. Desde las 9:00 del lunes 23 de noviembre, hasta el martes 24",
-   "enlace": "https://aguimes.es/cortes-al-trafico-el-proximo-lunes-en-el-cruce-de-arinaga-por-obras-en-el-parque-del-barranquillo/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1540-barranquillo-cortes.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T15:42:10+00:00",
-   "titulo": "Montaña San Francisco, Cuarto del Uno y Arinaga: corte de agua el lunes 23 de 8:00 a 16:00 aproximadamente.",
-   "resumen": "Revisa y llena bidones y aljibes de reserva antes del lunes. Motivo: conexión de la red general con los depósitos municipales de la Urbanización Suso-5-R",
-   "enlace": "https://aguimes.es/corte-de-agua-programado-para-este-lunes-en-montana-san-francisco-y-arinaga/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1540-corte-agua-suso.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T15:42:10+00:00",
-   "titulo": "Agüimes: «Iconografía y poéticas de la forma», retrospectiva del escultor Román Hernández, hasta el 18 de diciembre.",
-   "resumen": "Sala de Arte Agüimes (Casa de la Cultura), de lunes a viernes, 9:30-13:30 y 16:00-20:00. Abre desde el viernes 20 de noviembre",
-   "enlace": "https://aguimes.es/iconografia-y-poeticas-de-la-forma-repasa-la-trayectoria-del-escultor-roman-hernandez/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1540-expo-roman-hernandez.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T15:42:10+00:00",
-   "titulo": "Ingenio: la programación navideña va del sábado 21 de noviembre al 5 de enero, con la Cabalgata de Reyes de cierre.",
-   "resumen": "Programación completa en la web municipal de Ingenio (pdf). Sáb 21 y dom 22 nov: Encendido Navideño (Plaza de la Candelaria) y GastroIngenio (parque Néstor Álamo)",
-   "enlace": "https://ingenio.es/comienza-la-programacion-navidena-en-la-villa-de-ingenio/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1540-ingenio-programacion-navidad.png",
    "urgente": false
   }
  ]
