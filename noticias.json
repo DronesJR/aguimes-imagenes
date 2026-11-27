@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-26T18:41:59+00:00",
+ "actualizado": "2026-11-27T09:42:32+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-27T09:42:32+00:00",
+   "titulo": "Santa Lucía: aprobada la ordenanza que veta patinetas en aceras y zonas peatonales; mínimo 15 años y casco.",
+   "resumen": "Aprobación inicial por unanimidad en el pleno del jueves 26 de noviembre. Prohíbe circular por aceras y zonas peatonales y exige casco",
+   "enlace": "https://www.santaluciagc.com/el-pleno-aprueba-la-ordenanza-que-prohibe-la-circulacion-de-patinetas-por-aceras-y-zonas-peatonales/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-27-1000-ordenanza-patinetas.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-26T18:41:59+00:00",
    "titulo": "Agüimes presenta el III Plan Municipal de Juventud 2026-2030, con siete ejes y 15 programas.",
@@ -303,22 +311,6 @@
    "resumen": "Programación completa en la web municipal de Ingenio (pdf). Sáb 21 y dom 22 nov: Encendido Navideño (Plaza de la Candelaria) y GastroIngenio (parque Néstor Álamo)",
    "enlace": "https://ingenio.es/comienza-la-programacion-navidena-en-la-villa-de-ingenio/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1540-ingenio-programacion-navidad.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T06:43:03+00:00",
-   "titulo": "Vecindario: 18º Medio Maratón Camilo Sánchez este sábado 21, con salida de 21 y 10,5 km a las 20:00.",
-   "resumen": "Av. de Las Tirajanas, frente a las Oficinas Municipales y el Pabellón de Deportes de Vecindario. 10:00 entrega de dorsales en la Expo; 10:00-12:30 carreras infantiles (Sub 6 a Sub 16)",
-   "enlace": "https://www.laprovincia.es/deportes-canarias/2026/11/19/vecindario-acoge-sabado-18o-medio-136632195.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-0700-vecindario-medio-maraton.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T06:43:03+00:00",
-   "titulo": "Santa Lucía: Salustiano Toledo asume la jefatura de la Policía Local tras la jubilación de José Luis Herrera.",
-   "resumen": "• El Ayuntamiento formalizó el nombramiento por decreto fechado el 12 de noviembre El Ayuntamiento formalizó el nombramiento por decreto fechado el 12 de noviembre",
-   "enlace": "https://www.canarias7.es/canarias/gran-canaria/salustiano-toledo-releva-jose-luis-herrera-frente-20261119135753-nt.html",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-0700-santa-lucia-jefe-policia.png",
    "urgente": false
   }
  ]
