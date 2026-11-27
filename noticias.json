@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-27T15:43:18+00:00",
+ "actualizado": "2026-11-27T21:43:14+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-27T21:43:14+00:00",
+   "titulo": "Vecindario: el PuntoJFest «Te falta Kalle» llena el Recinto Ferial el sábado 28 de noviembre desde las 17:00.",
+   "resumen": "Actividades gratuitas para la juventud del municipio, en el Recinto Ferial. 17:00 baile urbano «El Don del Movimiento»; 19:00 improvisación rap «El don de la palabra»; 21:30 concurso de talento joven «Tu Night»",
+   "enlace": "https://www.santaluciagc.com/deporte-musica-talleres-aventuras-comida-y-videojuegos-este-sabado-en-el-puntojfest-en-el-recinto-ferial/",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-27-2200-puntojfest-vecindario.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-27T15:43:18+00:00",
    "titulo": "Ingenio: almuerzo de Navidad para mayores de 60 el viernes 11 de diciembre, con música de Yaracuy.",
@@ -279,30 +287,6 @@
    "resumen": "El programa de Navidad de Santa Lucía suma más de 50 actividades hasta Reyes. Espectáculo en la plaza de Los Algodoneros con encendido del alcalde, la concejala de Comercio y un niño",
    "enlace": "https://www.santaluciagc.com/la-zona-comercial-de-vecindario-se-enciende-para-convertir-a-santa-lucia-en-el-hogar-de-la-navidad/",
    "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-21-0941-vecindario-encendido-cronica.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T18:41:51+00:00",
-   "titulo": "El Carrizal: la exposición «Conocer para Conservar» sobre flora canaria se puede visitar hasta el domingo 22.",
-   "resumen": "Parque del Buen Suceso (El Carrizal), hasta el domingo 22 de noviembre. Muestra itinerante de la campaña del Cabildo y el Jardín Botánico Canario Viera y Clavijo, con el Ayuntamiento de Ingenio",
-   "enlace": "https://ingenio.es/nueva-accion-de-la-campana-conocer-para-conservar-en-la-villa-de-ingenio/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-ingenio-conocer-conservar.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T18:41:51+00:00",
-   "titulo": "Ingenio: el libro «Gran Canaria Singular. Calando Cultura» recoge el legado artesanal del calado.",
-   "resumen": "Se distribuirá en centros educativos y bibliotecas municipales; no estará a la venta. Presentado el jueves 19 de noviembre en el Salón de Plenos con la consejera de Cultura del Cabildo, Guacimara Medina",
-   "enlace": "https://ingenio.es/gran-canaria-singular-calando-cultura-recoge-en-un-libro-el-legado-artesanal-del-calado-y-su-proyeccion-hacia-el-futuro/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-ingenio-libro-calando.png",
-   "urgente": false
-  },
-  {
-   "fecha": "2026-11-20T18:41:51+00:00",
-   "titulo": "Agüimes: nuevo centro Essenza de pilates y nutrición para la mujer, en el casco histórico.",
-   "resumen": "Calle Juan Alvarado y Saz, 66 (casco histórico de Agüimes). Pilates para embarazadas y posparto, suelo pélvico, hipopresivos, pilates clásico y barre",
-   "enlace": "https://aguimes.es/el-alcalde-de-aguimes-visita-un-nuevo-centro-especializado-en-pilates-y-nutricion-para-la-mujer/",
-   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-20-1841-aguimes-essenza.png",
    "urgente": false
   }
  ]
