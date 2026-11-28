@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-11-27T21:43:14+00:00",
+ "actualizado": "2026-11-28T06:43:25+00:00",
  "noticias": [
+  {
+   "fecha": "2026-11-28T06:43:25+00:00",
+   "titulo": "Vecindario: Santa Lucía paraliza la demolición de una nave tras el derrumbe de una pared; 13 personas desalojadas.",
+   "resumen": "Las familias no podrán volver a sus casas, al menos, hasta la próxima semana. El derrumbe, el jueves 26 por la tarde en la calle Maestro Valle, afectó a viviendas colindantes y dejó un hombre herido grave, rescatado por los bomberos",
+   "enlace": "https://www.canarias7.es/canarias/gran-canaria/santa-lucia-congela-obra-derrumbo-casas-colindantes-20261127172811-nt.html",
+   "imagen": "https://raw.githubusercontent.com/DronesJR/aguimes-imagenes/main/img/2026-11-28-0650-derrumbe-vecindario.png",
+   "urgente": false
+  },
   {
    "fecha": "2026-11-27T21:43:14+00:00",
    "titulo": "Vecindario: el PuntoJFest «Te falta Kalle» llena el Recinto Ferial el sábado 28 de noviembre desde las 17:00.",
